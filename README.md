@@ -1,15 +1,15 @@
 # The Prologue from Ochrid — English
 
-St. Nikolai Velimirovich's *Prologue from Ochrid*, translated into English directly from the original Serbian by [OCHRID.COM](https://ochrid.com). 366 days.
+St. Nikolai Velimirovich's *Prologue from Ochrid*, translated into English directly from the original Serbian by Marcian Sakarya, [OCHRID.COM](https://ochrid.com). 366 days.
 
 ## License
 
 [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Use, copy, adapt and redistribute freely, including in apps, as long as you:
 
-- credit **OCHRID.COM** with a link to https://ochrid.com, and
+- credit **Marcian Sakarya** and **OCHRID.COM** with a link to https://ochrid.com, and
 - release adapted versions of the text under the same license.
 
-Suggested attribution: *"The Prologue from Ochrid, translated by OCHRID.COM (https://ochrid.com), CC BY-SA 4.0."*
+Suggested attribution: *"The Prologue from Ochrid, translated by Marcian Sakarya, OCHRID.COM (https://ochrid.com), CC BY-SA 4.0."*
 
 ## Dates
 
@@ -43,4 +43,4 @@ git clone https://github.com/ochrid-com/prologue-from-ochrid.git
 
 Corrections land continuously. Run `git pull` from time to time to stay current.
 
-Generated 2026-10-15.
+Generated 2026-10-17.
