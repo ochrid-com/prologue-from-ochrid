@@ -2,12 +2,13 @@
   "source": "https://ochrid.com",
   "translator": "Marcian Sakarya",
   "license": "CC BY-SA 4.0",
-  "generated": "2026-10-17",
+  "generated": "2026-11-16",
   "days": [
     {
       "date_julian": "01-01",
       "date_gregorian": "01-14",
       "title": "CIRCUMCISION OF OUR LORD AND GOD AND SAVIOR JESUS CHRIST / SAINT BASIL THE GREAT, ARCHBISHOP OF CAESAREA",
+      "status": "verified",
       "lives": [
         {
           "heading": "THE CIRCUMCISION OF OUR LORD AND GOD AND SAVIOR JESUS CHRIST",
@@ -27,6 +28,7 @@
       "date_julian": "01-02",
       "date_gregorian": "01-15",
       "title": "SAINT SYLVESTER, BISHOP OF ROME / VENERABLE SERAPHIM OF SAROV / SAINT THEODOTA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SYLVESTER, BISHOP OF ROME",
@@ -54,6 +56,7 @@
       "date_julian": "01-03",
       "date_gregorian": "01-16",
       "title": "PROPHET MALACHI / HOLY MARTYR GORDIUS / SAINT GENEVIEVE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE PROPHET MALACHI",
@@ -77,6 +80,7 @@
       "date_julian": "01-04",
       "date_gregorian": "01-17",
       "title": "SYNAXIS OF THE SEVENTY APOSTLES / EUSTATHIUS, ARCHBISHOP OF SERBIA / EUNUCH OF QUEEN CANDACE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE SYNAXIS OF THE SEVENTY APOSTLES",
@@ -104,6 +108,7 @@
       "date_julian": "01-05",
       "date_gregorian": "01-18",
       "title": "HIEROMARTYR THEOPEMPTUS AND THEONAS / HOLY PROPHET MICAH I / VENERABLE MOTHER SYNCLETICA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR THEOPEMPTUS AND THEONAS",
@@ -131,6 +136,7 @@
       "date_julian": "01-06",
       "date_gregorian": "01-19",
       "title": "THEOPHANY",
+      "status": "translated",
       "lives": [
         {
           "heading": "THEOPHANY",
@@ -146,6 +152,7 @@
       "date_julian": "01-07",
       "date_gregorian": "01-20",
       "title": "SAINT JOHN THE BAPTIST / HOLY MARTYR ATHANASIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT JOHN THE BAPTIST",
@@ -165,6 +172,7 @@
       "date_julian": "01-08",
       "date_gregorian": "01-21",
       "title": "HOLY MARTYRS JULIAN AND BASILISSA / VENERABLE GEORGE THE CHOZEBITE / SAINT DOMINICA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS JULIAN AND BASILISSA",
@@ -192,6 +200,7 @@
       "date_julian": "01-09",
       "date_gregorian": "01-22",
       "title": "HOLY MARTYR POLYEUCTUS / VENERABLE EUSTRATIUS / SAINT PHILIP, METROPOLITAN OF MOSCOW",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR POLYEUCTUS",
@@ -215,6 +224,7 @@
       "date_julian": "01-10",
       "date_gregorian": "01-23",
       "title": "SAINT GREGORY, BISHOP OF NYSSA / VENERABLE AMMON / SAINT MARCIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT GREGORY, BISHOP OF NYSSA",
@@ -238,6 +248,7 @@
       "date_julian": "01-11",
       "date_gregorian": "01-24",
       "title": "VENERABLE THEODOSIUS THE GREAT / BLESSED MICHAEL",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE THEODOSIUS THE GREAT",
@@ -257,6 +268,7 @@
       "date_julian": "01-12",
       "date_gregorian": "01-25",
       "title": "HOLY MARTYR TATIANA / HOLY MARTYR PETER OF AVESSALOME / MILK-GIVER",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR TATIANA",
@@ -284,6 +296,7 @@
       "date_julian": "01-13",
       "date_gregorian": "01-26",
       "title": "HOLY MARTYRS HERMYLUS AND STRATONICUS / SAINT JAMES, BISHOP OF NISIBIS / VENERABLE MAXIMUS KAUSOKALYVIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS HERMYLUS AND STRATONICUS",
@@ -307,6 +320,7 @@
       "date_julian": "01-14",
       "date_gregorian": "01-27",
       "title": "SAINT SAVA, ARCHBISHOP OF SERBIA / VENERABLE MARTYR FATHERS OF SINAI AND RAITHU / SAINT HILARY, BISHOP OF POITIERS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SAVA, ARCHBISHOP OF SERBIA",
@@ -334,6 +348,7 @@
       "date_julian": "01-15",
       "date_gregorian": "01-28",
       "title": "VENERABLE PAUL OF THEBES / VENERABLE JOHN THE HUT-DWELLER / VENERABLE GABRIEL OF LESNOVO",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PAUL OF THEBES",
@@ -361,6 +376,7 @@
       "date_julian": "01-16",
       "date_gregorian": "01-29",
       "title": "HOLY APOSTLE PETER / HOLY MARTYRS SPEUSIPPUS, ELEUSIPPUS, MELEUSIPPUS AND THEIR GRANDMOTHER LEONILLA / VENERABLE MARTYR DAMASCENE OF GABROVO",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE PETER",
@@ -388,6 +404,7 @@
       "date_julian": "01-17",
       "date_gregorian": "01-30",
       "title": "VENERABLE ANTHONY THE GREAT / SAINT EMPEROR THEODOSIUS THE GREAT / HOLY MARTYR GEORGE THE NEW OF IOANNINA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE ANTHONY THE GREAT",
@@ -411,6 +428,7 @@
       "date_julian": "01-18",
       "date_gregorian": "01-31",
       "title": "SAINT ATHANASIUS THE GREAT, ARCHBISHOP OF ALEXANDRIA / SAINT MAXIMUS, ARCHBISHOP OF VLACHO-ZAPLANIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ATHANASIUS THE GREAT, ARCHBISHOP OF ALEXANDRIA",
@@ -430,6 +448,7 @@
       "date_julian": "01-19",
       "date_gregorian": "02-01",
       "title": "VENERABLE MACARIUS THE GREAT / VENERABLE MACARIUS OF ALEXANDRIA / SAINT ARSENIUS, BISHOP OF CORFU",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MACARIUS THE GREAT",
@@ -461,6 +480,7 @@
       "date_julian": "01-20",
       "date_gregorian": "02-02",
       "title": "VENERABLE EUTHYMIUS THE GREAT / HOLY MARTYRS ENEN, NIREN AND PEN",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE EUTHYMIUS THE GREAT",
@@ -480,6 +500,7 @@
       "date_julian": "01-21",
       "date_gregorian": "02-03",
       "title": "VENERABLE MAXIMUS THE CONFESSOR / BLESSED MAXIMUS THE GREEK / HOLY MARTYR NEOPHYTUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MAXIMUS THE CONFESSOR",
@@ -507,6 +528,7 @@
       "date_julian": "01-22",
       "date_gregorian": "02-04",
       "title": "HOLY APOSTLE TIMOTHY / VENERABLE MARTYR ANASTASIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE TIMOTHY",
@@ -526,6 +548,7 @@
       "date_julian": "01-23",
       "date_gregorian": "02-05",
       "title": "HIEROMARTYR CLEMENT, BISHOP OF ANCYRA / SIXTH ECUMENICAL COUNCIL / SAINT PAULINUS THE MERCIFUL",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR CLEMENT, BISHOP OF ANCYRA",
@@ -549,6 +572,7 @@
       "date_julian": "01-24",
       "date_gregorian": "02-06",
       "title": "VENERABLE XENIA / HOLY MARTYR BABYLAS / VENERABLE MACEDONIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE XENIA",
@@ -580,6 +604,7 @@
       "date_julian": "01-25",
       "date_gregorian": "02-07",
       "title": "SAINT GREGORY THE THEOLOGIAN, ARCHBISHOP OF CONSTANTINOPLE / VENERABLE PUBLIUS / VENERABLE MARES",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT GREGORY THE THEOLOGIAN, ARCHBISHOP OF CONSTANTINOPLE",
@@ -607,6 +632,7 @@
       "date_julian": "01-26",
       "date_gregorian": "02-08",
       "title": "VENERABLE XENOPHON AND MARY, AND THEIR SONS JOHN AND ARCADIUS / VENERABLE SIMEON THE ELDER / SAINT DAVID, KING OF GEORGIA (1089-1130)",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE XENOPHON AND MARY, AND THEIR SONS JOHN AND ARCADIUS",
@@ -630,6 +656,7 @@
       "date_julian": "01-27",
       "date_gregorian": "02-09",
       "title": "SAINT JOHN CHRYSOSTOM, THE GOLDEN TRUMPET OF ORTHODOXY / VENERABLE TITUS OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT JOHN CHRYSOSTOM, THE GOLDEN TRUMPET OF ORTHODOXY",
@@ -649,6 +676,7 @@
       "date_julian": "01-28",
       "date_gregorian": "02-10",
       "title": "VENERABLE EPHRAIM THE SYRIAN / VENERABLE ISAAC THE SYRIAN / VENERABLE PALLADIUS, SYRIAN HERMIT",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE EPHRAIM THE SYRIAN",
@@ -676,6 +704,7 @@
       "date_julian": "01-29",
       "date_gregorian": "02-11",
       "title": "HIEROMARTYR IGNATIUS / HOLY MARTYRS ROMAN, JAMES, PHILOTHEUS, HYPERICHIUS, AVIVUS, JULIAN AND PARIGORIUS / VENERABLE LAURENCE OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR IGNATIUS",
@@ -699,6 +728,7 @@
       "date_julian": "01-30",
       "date_gregorian": "02-12",
       "title": "THREE HOLY HIERARCHS / HIEROMARTYR HIPPOLYTUS, BISHOP OF ROME / HOLY MARTYR THEOPHILUS THE NEW",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE THREE HOLY HIERARCHS",
@@ -726,6 +756,7 @@
       "date_julian": "01-31",
       "date_gregorian": "02-13",
       "title": "SAINTS CYRUS AND JOHN, UNMERCENARIES AND WONDERWORKERS / HOLY MARTYR TRYPHENA / VENERABLE NIKITA OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINTS CYRUS AND JOHN, UNMERCENARIES AND WONDERWORKERS",
@@ -749,6 +780,7 @@
       "date_julian": "02-01",
       "date_gregorian": "02-14",
       "title": "HOLY MARTYR TRYPHON / HOLY MARTYRS PERPETUA, FELICITAS, SATURUS, AND OTHERS WITH THEM / VENERABLE PETER THE GALATIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR TRYPHON",
@@ -772,6 +804,7 @@
       "date_julian": "02-02",
       "date_gregorian": "02-15",
       "title": "PRESENTATION OF THE LORD / HOLY NEW-MARTYR JORDAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE PRESENTATION OF THE LORD",
@@ -791,6 +824,7 @@
       "date_julian": "02-03",
       "date_gregorian": "02-16",
       "title": "SAINT SIMEON THE GOD-RECEIVER / HOLY MARTYRS ADRIAN AND EUBULUS / SAINT JAMES, ARCHBISHOP OF SERBIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SIMEON THE GOD-RECEIVER",
@@ -814,6 +848,7 @@
       "date_julian": "02-04",
       "date_gregorian": "02-17",
       "title": "VENERABLE ISIDORE OF PELUSIUM / VENERABLE NICHOLAS THE CONFESSOR / HOLY NEW-MARTYR JOSEPH",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE ISIDORE OF PELUSIUM",
@@ -837,6 +872,7 @@
       "date_julian": "02-05",
       "date_gregorian": "02-18",
       "title": "HOLY MARTYR AGATHA / HOLY MARTYR THEODULA / SAINT POLYEUCTUS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR AGATHA",
@@ -860,6 +896,7 @@
       "date_julian": "02-06",
       "date_gregorian": "02-19",
       "title": "SAINT BUCOLUS, BISHOP OF SMYRNA / HOLY MARTYR FAUSTA / HOLY MARTYR DOROTHEA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT BUCOLUS, BISHOP OF SMYRNA",
@@ -895,6 +932,7 @@
       "date_julian": "02-07",
       "date_gregorian": "02-20",
       "title": "SAINT PARTHENIUS, BISHOP OF LAMPSACUS / VENERABLE LUKE OF HELLAS / VENERABLE MASTRIDIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT PARTHENIUS, BISHOP OF LAMPSACUS",
@@ -922,6 +960,7 @@
       "date_julian": "02-08",
       "date_gregorian": "02-21",
       "title": "HOLY GREAT-MARTYR THEODORE THE GENERAL / HOLY PROPHET ZECHARIAH / SAINT SAVA II, ARCHBISHOP OF SERBIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT-MARTYR THEODORE THE GENERAL",
@@ -945,6 +984,7 @@
       "date_julian": "02-09",
       "date_gregorian": "02-22",
       "title": "HOLY MARTYR NICEPHORUS / PRIEST-MARTYR PETER OF DAMASCUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR NICEPHORUS",
@@ -964,6 +1004,7 @@
       "date_julian": "02-10",
       "date_gregorian": "02-23",
       "title": "PRIEST-MARTYR HARALAMPIUS / VENERABLE PROHOR THE HERB-EATER",
+      "status": "verified",
       "lives": [
         {
           "heading": "PRIEST-MARTYR HARALAMPIUS",
@@ -983,6 +1024,7 @@
       "date_julian": "02-11",
       "date_gregorian": "02-24",
       "title": "PRIEST-MARTYR BLAISE / HOLY MARTYR GEORGE OF KRATOVO / SAINT THEODORA",
+      "status": "verified",
       "lives": [
         {
           "heading": "PRIEST-MARTYR BLAISE",
@@ -1006,6 +1048,7 @@
       "date_julian": "02-12",
       "date_gregorian": "02-25",
       "title": "SAINT MELETIUS, ARCHBISHOP OF ANTIOCH / SAINT ALEXIS, METROPOLITAN OF MOSCOW / VENERABLE MARIA",
+      "status": "verified",
       "lives": [
         {
           "heading": "SAINT MELETIUS, ARCHBISHOP OF ANTIOCH",
@@ -1037,6 +1080,7 @@
       "date_julian": "02-13",
       "date_gregorian": "02-26",
       "title": "VENERABLE SIMEON THE MYRRH-STREAMING - / VENERABLE MARTINIANUS / SAINT ZOE AND PHOTINIA",
+      "status": "verified",
       "lives": [
         {
           "heading": "VENERABLE SIMEON THE MYRRH-STREAMING -",
@@ -1060,6 +1104,7 @@
       "date_julian": "02-14",
       "date_gregorian": "02-27",
       "title": "VENERABLE AUXENTIUS / VENERABLE ISAAC, RECLUSE OF THE CAVES",
+      "status": "verified",
       "lives": [
         {
           "heading": "VENERABLE AUXENTIUS",
@@ -1079,6 +1124,7 @@
       "date_julian": "02-15",
       "date_gregorian": "02-28",
       "title": "HOLY APOSTLE ONESIMUS / VENERABLE EUSEBIUS",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY APOSTLE ONESIMUS",
@@ -1098,6 +1144,7 @@
       "date_julian": "02-16",
       "date_gregorian": "03-01",
       "title": "HOLY TWELVE MARTYRS / SAINT MARUTHAS / HOLY VENERABLE MARTYR ROMANUS",
+      "status": "verified",
       "lives": [
         {
           "heading": "THE HOLY TWELVE MARTYRS",
@@ -1121,6 +1168,7 @@
       "date_julian": "02-17",
       "date_gregorian": "03-02",
       "title": "HOLY GREAT-MARTYR THEODORE TYRO / VENERABLE THEODOSIUS THE BULGARIAN AND ROMANUS, DISCIPLE OF THEODOSIUS / SAINT MARIAMNE (MARIA)",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT-MARTYR THEODORE TYRO",
@@ -1144,6 +1192,7 @@
       "date_julian": "02-18",
       "date_gregorian": "03-03",
       "title": "SAINT LEO I, POPE OF ROME / SAINT FLAVIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT LEO I, POPE OF ROME",
@@ -1163,6 +1212,7 @@
       "date_julian": "02-19",
       "date_gregorian": "03-04",
       "title": "HOLY APOSTLES ARCHIPPUS, PHILEMON AND APPHIA / VENERABLE DOSITHEUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLES ARCHIPPUS, PHILEMON AND APPHIA",
@@ -1182,6 +1232,7 @@
       "date_julian": "02-20",
       "date_gregorian": "03-05",
       "title": "SAINT LEO, BISHOP OF CATANIA / HOLY PRIEST-MARTYR SADOC",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT LEO, BISHOP OF CATANIA",
@@ -1201,6 +1252,7 @@
       "date_julian": "02-21",
       "date_gregorian": "03-06",
       "title": "SAINT ZACHARIAS, PATRIARCH OF JERUSALEM / VENERABLE TIMOTHY / SAINT EUSTATHIUS, ARCHBISHOP OF ANTIOCH",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ZACHARIAS, PATRIARCH OF JERUSALEM",
@@ -1228,6 +1280,7 @@
       "date_julian": "02-22",
       "date_gregorian": "03-07",
       "title": "HOLY MARTYR MAURICIUS AND SEVENTY SOLDIERS / MANY MARTYRS IN EUGENIA, NEAR CONSTANTINOPLE / VENERABLE THALASSIUS AND LIMNAEUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR MAURICIUS AND SEVENTY SOLDIERS",
@@ -1255,6 +1308,7 @@
       "date_julian": "02-23",
       "date_gregorian": "03-08",
       "title": "HOLY PRIEST-MARTYR POLYCARP, BISHOP OF SMYRNA / VENERABLE DAMIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PRIEST-MARTYR POLYCARP, BISHOP OF SMYRNA",
@@ -1274,6 +1328,7 @@
       "date_julian": "02-24",
       "date_gregorian": "03-09",
       "title": "FINDING OF THE HEAD OF SAINT JOHN THE FORERUNNER / VENERABLE ERASMUS, MONK OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE FINDING OF THE HEAD OF SAINT JOHN THE FORERUNNER",
@@ -1293,6 +1348,7 @@
       "date_julian": "02-25",
       "date_gregorian": "03-10",
       "title": "SAINT TARASIUS, PATRIARCH OF CONSTANTINOPLE / VENERABLE PAPHNUTIUS CEPHALAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT TARASIUS, PATRIARCH OF CONSTANTINOPLE",
@@ -1312,6 +1368,7 @@
       "date_julian": "02-26",
       "date_gregorian": "03-11",
       "title": "SAINT PORPHYRIUS, BISHOP OF GAZA / HOLY MARTYR JOHN THE BUILDER",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT PORPHYRIUS, BISHOP OF GAZA",
@@ -1331,6 +1388,7 @@
       "date_julian": "02-27",
       "date_gregorian": "03-12",
       "title": "VENERABLE PROCOPIUS THE DECAPOLITE / VENERABLE THALALEÜS, SYRIAN ASCETIC / VENERABLE TITUS OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PROCOPIUS THE DECAPOLITE",
@@ -1362,6 +1420,7 @@
       "date_julian": "02-28",
       "date_gregorian": "03-13",
       "title": "HOLY PRIEST-MARTYR PROTERIUS / SAINT BASIL THE CONFESSOR / HOLY PRIEST-MARTYR NESTOR, BISHOP OF MAGYDUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PRIEST-MARTYR PROTERIUS",
@@ -1387,8 +1446,9 @@
     },
     {
       "date_julian": "02-29",
-      "date_gregorian": "03-14",
+      "date_gregorian": "03-13",
       "title": "VENERABLE JOHN CASSIAN / VENERABLE BARSANUPHIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOHN CASSIAN",
@@ -1408,6 +1468,7 @@
       "date_julian": "03-01",
       "date_gregorian": "03-14",
       "title": "VENERABLE MARTYR EUDOCIA / VENERABLE AGAPIUS / HOLY MARTYR ANTONINA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR EUDOCIA",
@@ -1431,6 +1492,7 @@
       "date_julian": "03-02",
       "date_gregorian": "03-15",
       "title": "HOLY PRIEST-MARTYR THEODOTUS, BISHOP OF CYRENIA / HOLY MARTYR TROADIUS / FOUR HUNDRED AND FORTY MARTYRS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PRIEST-MARTYR THEODOTUS, BISHOP OF CYRENIA",
@@ -1462,6 +1524,7 @@
       "date_julian": "03-03",
       "date_gregorian": "03-16",
       "title": "HOLY MARTYRS EUTROPIUS, CLEONICUS, AND BASILISCUS / SAINT PIAMUNA THE EGYPTIAN / AN UNKNOWN MAIDEN FROM A WEALTHY HOUSE IN ALEXANDRIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS EUTROPIUS, CLEONICUS, AND BASILISCUS",
@@ -1485,6 +1548,7 @@
       "date_julian": "03-04",
       "date_gregorian": "03-17",
       "title": "VENERABLE GERASIMUS / HOLY MARTYRS PAUL AND JULIANA / SAINT JAMES THE FASTER",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE GERASIMUS",
@@ -1508,6 +1572,7 @@
       "date_julian": "03-05",
       "date_gregorian": "03-18",
       "title": "HOLY MARTYR CONON OF ISAURIA / HOLY MARTYR CONON THE GARDENER / VENERABLE HESYCHIUS THE FASTER",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR CONON OF ISAURIA",
@@ -1535,6 +1600,7 @@
       "date_julian": "03-06",
       "date_gregorian": "03-19",
       "title": "HOLY FORTY-TWO MARTYRS OF AMORION / BLESSED JOB / HOLY MARTYRS CONON THE FATHER AND CONON THE SON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY FORTY-TWO MARTYRS OF AMORION",
@@ -1558,6 +1624,7 @@
       "date_julian": "03-07",
       "date_gregorian": "03-20",
       "title": "HOLY SEVEN PRIEST-MARTYRS OF CHERSON / VENERABLE EMILIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY SEVEN PRIEST-MARTYRS OF CHERSON",
@@ -1577,6 +1644,7 @@
       "date_julian": "03-08",
       "date_gregorian": "03-21",
       "title": "SAINT THEOPHYLACT, BISHOP OF NICOMEDIA / HOLY PRIEST-MARTYR THEODORET",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT THEOPHYLACT, BISHOP OF NICOMEDIA",
@@ -1596,6 +1664,7 @@
       "date_julian": "03-09",
       "date_gregorian": "03-22",
       "title": "HOLY FORTY MARTYRS OF SEBASTE / VENERABLE PHILOROMUS THE CONFESSOR / SAINT CAESARIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY FORTY MARTYRS OF SEBASTE",
@@ -1619,6 +1688,7 @@
       "date_julian": "03-10",
       "date_gregorian": "03-23",
       "title": "HOLY MARTYR QUADRATUS OF CORINTH AND OTHERS WITH HIM / HOLY MARTYR QUADRATUS OF NICOMEDIA / VENERABLE MOTHER ANASTASIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR QUADRATUS OF CORINTH AND OTHERS WITH HIM",
@@ -1642,6 +1712,7 @@
       "date_julian": "03-11",
       "date_gregorian": "03-24",
       "title": "SAINT SOPHRONIUS, PATRIARCH OF JERUSALEM / HOLY MARTYRS PIONIUS AND OTHERS WITH HIM / VENERABLE GEORGE THE SINAITE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SOPHRONIUS, PATRIARCH OF JERUSALEM",
@@ -1665,6 +1736,7 @@
       "date_julian": "03-12",
       "date_gregorian": "03-25",
       "title": "VENERABLE THEOPHANES THE CONFESSOR / VENERABLE SYMEON THE NEW THEOLOGIAN / SAINT GREGORY THE DIALOGIST, POPE OF ROME",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE THEOPHANES THE CONFESSOR",
@@ -1688,6 +1760,7 @@
       "date_julian": "03-13",
       "date_gregorian": "03-26",
       "title": "SAINT NICEPHORUS, PATRIARCH OF CONSTANTINOPLE / HOLY MARTYR CHRISTINA THE PERSIAN / HOLY PRIEST-MARTYR PUBLIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT NICEPHORUS, PATRIARCH OF CONSTANTINOPLE",
@@ -1711,6 +1784,7 @@
       "date_julian": "03-14",
       "date_gregorian": "03-27",
       "title": "VENERABLE BENEDICT / SAINT EUSCHIMON, BISHOP OF LAMPSACUS / SAINT THEOGNOSTUS, METROPOLITAN OF KIEV",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE BENEDICT",
@@ -1734,6 +1808,7 @@
       "date_julian": "03-15",
       "date_gregorian": "03-28",
       "title": "HOLY MARTYR AGAPIUS AND SEVEN WITH HIM: PUBLIUS, TIMOLAÜS, ROMULUS, TWO ALEXANDERS, AND TWO DIONYSII / HOLY MARTYR ALEXANDER / HOLY MARTYR NICANDER THE EGYPTIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR AGAPIUS AND SEVEN WITH HIM: PUBLIUS, TIMOLAÜS, ROMULUS, TWO ALEXANDERS, AND TWO DIONYSII",
@@ -1757,6 +1832,7 @@
       "date_julian": "03-16",
       "date_gregorian": "03-29",
       "title": "HOLY APOSTLE ARISTOBULUS / HOLY MARTYR SABINUS / HOLY PRIEST-MARTYRS TROPHIMUS AND THALIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE ARISTOBULUS",
@@ -1780,6 +1856,7 @@
       "date_julian": "03-17",
       "date_gregorian": "03-30",
       "title": "SAINT ALEXIUS, THE MAN OF GOD / HOLY MARTYR MARINUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ALEXIUS, THE MAN OF GOD",
@@ -1799,6 +1876,7 @@
       "date_julian": "03-18",
       "date_gregorian": "03-31",
       "title": "SAINT CYRIL, ARCHBISHOP OF JERUSALEM / ANINUS THE WONDERWORKER",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT CYRIL, ARCHBISHOP OF JERUSALEM",
@@ -1818,6 +1896,7 @@
       "date_julian": "03-19",
       "date_gregorian": "04-01",
       "title": "HOLY MARTYRS CHRYSANTHUS AND DARIA, AND OTHERS WITH THEM / HOLY MARTYR PANCHAREUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS CHRYSANTHUS AND DARIA, AND OTHERS WITH THEM",
@@ -1837,6 +1916,7 @@
       "date_julian": "03-20",
       "date_gregorian": "04-02",
       "title": "VENERABLE MARTYRS JOHN AND OTHERS / HOLY MARTYR PHOTINA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE MARTYRS JOHN AND OTHERS",
@@ -1856,6 +1936,7 @@
       "date_julian": "03-21",
       "date_gregorian": "04-03",
       "title": "SAINT JAMES, BISHOP AND CONFESSOR / VENERABLE CYRIL, BISHOP OF CATANA IN SICILY / SAINT THOMAS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT JAMES, BISHOP AND CONFESSOR",
@@ -1883,6 +1964,7 @@
       "date_julian": "03-22",
       "date_gregorian": "04-04",
       "title": "PRIEST-MARTYR BASIL, PRESBYTER OF ANCYRA / HOLY DROSIDA / VENERABLE MARTYR EUTHYMIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR BASIL, PRESBYTER OF ANCYRA",
@@ -1906,6 +1988,7 @@
       "date_julian": "03-23",
       "date_gregorian": "04-05",
       "title": "PRIEST-MARTYR NICON / VENERABLE NICON OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR NICON",
@@ -1925,6 +2008,7 @@
       "date_julian": "03-24",
       "date_gregorian": "04-06",
       "title": "SAINT ARTEMON, BISHOP OF SELEUCIA / VENERABLE JAMES THE CONFESSOR / PRIEST-MARTYR PARTHENIUS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ARTEMON, BISHOP OF SELEUCIA",
@@ -1956,6 +2040,7 @@
       "date_julian": "03-25",
       "date_gregorian": "04-07",
       "title": "ANNUNCIATION / HOLY MARTYRS PELAGIA, THEODOSIA, AND DULA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE ANNUNCIATION",
@@ -1975,6 +2060,7 @@
       "date_julian": "03-26",
       "date_gregorian": "04-08",
       "title": "HOLY ARCHANGEL GABRIEL / PRIEST-MARTYR IRENAEUS, BISHOP OF SIRMIUM / VENERABLE MALCHUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY ARCHANGEL GABRIEL",
@@ -2002,6 +2088,7 @@
       "date_julian": "03-27",
       "date_gregorian": "04-09",
       "title": "HOLY MARTYR MATRONA / VENERABLE JOHN THE CLAIRVOYANT / VENERABLE PAPHNUTIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR MATRONA",
@@ -2025,6 +2112,7 @@
       "date_julian": "03-28",
       "date_gregorian": "04-10",
       "title": "VENERABLE MARTYR EUSTRATIOS OF THE CAVES / VENERABLE HILARION THE NEW, CONFESSOR / VENERABLE HESYCHIUS OF JERUSALEM",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR EUSTRATIOS OF THE CAVES",
@@ -2056,6 +2144,7 @@
       "date_julian": "03-29",
       "date_gregorian": "04-11",
       "title": "SAINT MARK THE CONFESSOR, BISHOP OF ARETHUSA IN SYRIA / VENERABLE JOHN THE HERMIT",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT MARK THE CONFESSOR, BISHOP OF ARETHUSA IN SYRIA",
@@ -2075,6 +2164,7 @@
       "date_julian": "03-30",
       "date_gregorian": "04-12",
       "title": "VENERABLE JOHN OF THE LADDER / COMMEMORATION OF A MONK",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOHN OF THE LADDER",
@@ -2094,6 +2184,7 @@
       "date_julian": "03-31",
       "date_gregorian": "04-13",
       "title": "PRIEST-MARTYR HYPATIOS, BISHOP OF GANGRA / SAINT JONAH, METROPOLITAN OF MOSCOW / PRIEST-MARTYR ABDAS, BISHOP OF THE CITY OF SUSA",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR HYPATIOS, BISHOP OF GANGRA",
@@ -2121,6 +2212,7 @@
       "date_julian": "04-01",
       "date_gregorian": "04-14",
       "title": "SAINT MARY OF EGYPT / SAINT MELITON, BISHOP OF SARDIS / VENERABLE PROCOPIOS THE CZECH",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT MARY OF EGYPT",
@@ -2144,6 +2236,7 @@
       "date_julian": "04-02",
       "date_gregorian": "04-15",
       "title": "VENERABLE TITUS THE WONDERWORKER / HOLY MARTYRS AMPHIANUS AND EDESIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE TITUS THE WONDERWORKER",
@@ -2163,6 +2256,7 @@
       "date_julian": "04-03",
       "date_gregorian": "04-16",
       "title": "SAINT NICETAS THE CONFESSOR / SAINT PAUL THE SUFFERER / HOLY MARTYR ULPIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT NICETAS THE CONFESSOR",
@@ -2186,6 +2280,7 @@
       "date_julian": "04-04",
       "date_gregorian": "04-17",
       "title": "VENERABLE JOSEPH THE HYMNOGRAPHER / HOLY MARTYR FERVUTA, HER WIDOWED SISTER, AND THEIR HANDMAID / VENERABLE ZOSIMAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOSEPH THE HYMNOGRAPHER",
@@ -2213,6 +2308,7 @@
       "date_julian": "04-05",
       "date_gregorian": "04-18",
       "title": "HOLY MARTYRS AGATHOPOUS AND THEODULUS / VENERABLE MARK OF THRACE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS AGATHOPOUS AND THEODULUS",
@@ -2232,6 +2328,7 @@
       "date_julian": "04-06",
       "date_gregorian": "04-19",
       "title": "SAINT EUTYCHIUS, PATRIARCH OF CONSTANTINOPLE / HOLY ONE HUNDRED AND TWENTY MARTYRS WHO SUFFERED IN PERSIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT EUTYCHIUS, PATRIARCH OF CONSTANTINOPLE",
@@ -2251,6 +2348,7 @@
       "date_julian": "04-07",
       "date_gregorian": "04-20",
       "title": "SAINT GEORGE THE CONFESSOR / VENERABLE NIL SORSKY / HOLY MARTYR KALLIOPIS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT GEORGE THE CONFESSOR",
@@ -2282,6 +2380,7 @@
       "date_julian": "04-08",
       "date_gregorian": "04-21",
       "title": "HOLY APOSTLES HERODION, AGABUS, RUFUS, ASYNCRITUS, PHLEGON, AND HERMAS / SAINT NIPHON, BISHOP OF NOVGOROD / SAINT CELESTINE, POPE OF ROME",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLES HERODION, AGABUS, RUFUS, ASYNCRITUS, PHLEGON, AND HERMAS",
@@ -2305,6 +2404,7 @@
       "date_julian": "04-09",
       "date_gregorian": "04-22",
       "title": "HOLY MARTYR EUPSYCHIUS / VENERABLE MARTYR VADIM",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR EUPSYCHIUS",
@@ -2324,6 +2424,7 @@
       "date_julian": "04-10",
       "date_gregorian": "04-23",
       "title": "HOLY MARTYRS TERENCE, AFRICANUS, MAXIMUS, POMPIUS, AND THE OTHER 36 WITH THEM / HOLY 6,000 MARTYRS IN GEORGIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS TERENCE, AFRICANUS, MAXIMUS, POMPIUS, AND THE OTHER 36 WITH THEM",
@@ -2343,6 +2444,7 @@
       "date_julian": "04-11",
       "date_gregorian": "04-24",
       "title": "PRIEST-MARTYR ANTIPAS, BISHOP OF PERGAMON IN ASIA / HOLY MARTYRS PROCESSUS AND MARTINIANUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR ANTIPAS, BISHOP OF PERGAMON IN ASIA",
@@ -2362,6 +2464,7 @@
       "date_julian": "04-12",
       "date_gregorian": "04-25",
       "title": "VENERABLE ISAAC THE SYRIAN II / SAINT BASIL THE CONFESSOR / VENERABLE ACACIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE ISAAC THE SYRIAN II",
@@ -2389,6 +2492,7 @@
       "date_julian": "04-13",
       "date_gregorian": "04-26",
       "title": "PRIEST-MARTYR ARTEMON / HOLY MARTYR CRESCENT / HOLY MARTYR THOMAIS",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR ARTEMON",
@@ -2412,6 +2516,7 @@
       "date_julian": "04-14",
       "date_gregorian": "04-27",
       "title": "SAINT MARTIN THE CONFESSOR, POPE OF ROME / HOLY MARTYRS ANTHONY, JOHN, AND EUSTATHIUS / HOLY MARTYR ARDALION THE ACTOR",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT MARTIN THE CONFESSOR, POPE OF ROME",
@@ -2435,6 +2540,7 @@
       "date_julian": "04-15",
       "date_gregorian": "04-28",
       "title": "HOLY APOSTLES ARISTARCHUS, PUDENS, AND TROPHIMUS / HOLY MARTYR SAVA THE GOTH / HOLY MARTYRS BASILISSA AND ANASTASIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLES ARISTARCHUS, PUDENS, AND TROPHIMUS",
@@ -2458,6 +2564,7 @@
       "date_julian": "04-16",
       "date_gregorian": "04-29",
       "title": "HOLY MARTYRS AGAPIA, CHIONIA, AND IRENE / HOLY MARTYR LEONIDAS AND WITH HIM THE MARTYRS CHARIESSA, NICE, GALINA, CALIDA, NUNECHIA, BASILISSA, AND THEODORA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS AGAPIA, CHIONIA, AND IRENE",
@@ -2477,6 +2584,7 @@
       "date_julian": "04-17",
       "date_gregorian": "04-30",
       "title": "PRIEST-MARTYR SIMEON, BISHOP OF PERSIA / SAINT ACACIUS, BISHOP OF MELITENE / SAINT AGAPITUS, POPE OF ROME",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE PRIEST-MARTYR SIMEON, BISHOP OF PERSIA",
@@ -2504,6 +2612,7 @@
       "date_julian": "04-18",
       "date_gregorian": "05-01",
       "title": "VENERABLE JOHN, DISCIPLE OF SAINT GREGORY THE DECAPOLITE / HOLY MARTYR JOHN THE NEW OF IOANNINA / HOLY MARTYRS VICTOR, ZOTICUS, ZENO, ACINDYNUS, AND SEVERIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOHN, DISCIPLE OF SAINT GREGORY THE DECAPOLITE",
@@ -2527,6 +2636,7 @@
       "date_julian": "04-19",
       "date_gregorian": "05-02",
       "title": "VENERABLE JOHN OF THE OLD CAVE / HOLY MARTYRS CHRISTOPHER, THEONAS, AND ANTONINUS / SAINT TRYPHON, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOHN OF THE OLD CAVE",
@@ -2558,6 +2668,7 @@
       "date_julian": "04-20",
       "date_gregorian": "05-03",
       "title": "VENERABLE THEODORE TRICHINAS / VENERABLE ANASTASIUS OF SINAI / BLESSED ANASTASIUS THE SINAITE, PATRIARCH OF ANTIOCH",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE THEODORE TRICHINAS",
@@ -2593,6 +2704,7 @@
       "date_julian": "04-21",
       "date_gregorian": "05-04",
       "title": "PRIEST-MARTYR JANUARIUS AND OTHERS WITH HIM / HOLY MARTYR THEODORE AND OTHERS WITH HIM",
+      "status": "translated",
       "lives": [
         {
           "heading": "PRIEST-MARTYR JANUARIUS AND OTHERS WITH HIM",
@@ -2612,6 +2724,7 @@
       "date_julian": "04-22",
       "date_gregorian": "05-05",
       "title": "VENERABLE THEODORE OF SYKEON / HOLY MARTYR LEONIDAS / VENERABLE MONK VITALIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE THEODORE OF SYKEON",
@@ -2635,6 +2748,7 @@
       "date_julian": "04-23",
       "date_gregorian": "05-06",
       "title": "HOLY GREAT MARTYR GEORGE / HOLY MARTYR LAZARUS THE NEW",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR GEORGE",
@@ -2654,6 +2768,7 @@
       "date_julian": "04-24",
       "date_gregorian": "05-07",
       "title": "HOLY MARTYR SAVA STRATELATES / VENERABLE ELIZABETH / HOLY MARTYRS EUSEBIUS, NEON, LEONTIUS, AND LONGINUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR SAVA STRATELATES",
@@ -2689,6 +2804,7 @@
       "date_julian": "04-25",
       "date_gregorian": "05-08",
       "title": "HOLY APOSTLE AND EVANGELIST MARK / SAINT ANIANUS, SECOND BISHOP OF ALEXANDRIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE AND EVANGELIST MARK",
@@ -2708,6 +2824,7 @@
       "date_julian": "04-26",
       "date_gregorian": "05-09",
       "title": "PRIEST-MARTYR BASIL, BISHOP OF AMASEA / SAINT JOANIKIJE OF DEVIC / SAINT STEPHEN, BISHOP OF PERM",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE PRIEST-MARTYR BASIL, BISHOP OF AMASEA",
@@ -2731,6 +2848,7 @@
       "date_julian": "04-27",
       "date_gregorian": "05-10",
       "title": "HOLY APOSTLE SIMEON / VENERABLE STEPHEN, BISHOP OF VLADIMIR / BURNING OF THE RELICS OF SAINT SAVA, ARCHBISHOP OF SERBIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE SIMEON",
@@ -2758,6 +2876,7 @@
       "date_julian": "04-28",
       "date_gregorian": "05-11",
       "title": "HOLY APOSTLES JASON AND SOSIPATER, AND THE VIRGIN CERCYRA / HOLY MARTYRS MAXIMUS, DADAS, AND QUINTILIAN / HOLY MARTYR TIBALUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLES JASON AND SOSIPATER, AND THE VIRGIN CERCYRA",
@@ -2781,6 +2900,7 @@
       "date_julian": "04-29",
       "date_gregorian": "05-12",
       "title": "SAINT BASIL OF OSTROG / HOLY NINE MARTYRS OF CYZICUS / VENERABLE MEMNON THE WONDERWORKER",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT BASIL OF OSTROG",
@@ -2804,6 +2924,7 @@
       "date_julian": "04-30",
       "date_gregorian": "05-13",
       "title": "HOLY APOSTLE JAMES / SAINT DONATUS / HOLY MARTYR ARGYRA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE JAMES",
@@ -2827,6 +2948,7 @@
       "date_julian": "05-01",
       "date_gregorian": "05-14",
       "title": "HOLY PROPHET JEREMIAH / VENERABLE MARTYR ACACIUS THE COBBLER / VENERABLE PAPHNUTIUS OF BOROVSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY PROPHET JEREMIAH",
@@ -2850,6 +2972,7 @@
       "date_julian": "05-02",
       "date_gregorian": "05-15",
       "title": "HOLY MARTYRS HESPERUS, ZOE, CYRIACUS, AND THEODULUS / SAINT ATHANASIUS THE GREAT, ARCHBISHOP OF ALEXANDRIA / HOLY MARTYRS BORIS AND GLEB",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS HESPERUS, ZOE, CYRIACUS, AND THEODULUS",
@@ -2877,6 +3000,7 @@
       "date_julian": "05-03",
       "date_gregorian": "05-16",
       "title": "HOLY MARTYRS TIMOTHY AND MAURA / VENERABLE THEODOSIUS OF THE KIEV CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS TIMOTHY AND MAURA",
@@ -2896,6 +3020,7 @@
       "date_julian": "05-04",
       "date_gregorian": "05-17",
       "title": "HOLY MARTYR PELAGIA OF TARSUS / PRIEST-MARTYR SILVANUS, BISHOP OF GAZA / VENERABLE NICEPHORUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR PELAGIA OF TARSUS",
@@ -2919,6 +3044,7 @@
       "date_julian": "05-05",
       "date_gregorian": "05-18",
       "title": "HOLY GREAT MARTYR IRENE / SAINTS MARTIN AND HERACLIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY GREAT MARTYR IRENE",
@@ -2938,6 +3064,7 @@
       "date_julian": "05-06",
       "date_gregorian": "05-19",
       "title": "HOLY, RIGHTEOUS, AND MUCH-SUFFERING JOB / HOLY MARTYR BARBARUS / SAINT BARBARUS THE ROBBER",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY, RIGHTEOUS, AND MUCH-SUFFERING JOB",
@@ -2961,6 +3088,7 @@
       "date_julian": "05-07",
       "date_gregorian": "05-20",
       "title": "COMMEMORATION OF THE APPEARANCE OF THE HONORABLE CROSS IN JERUSALEM / HOLY MARTYR ACACIUS / VENERABLE FATHERS OF GEORGIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE COMMEMORATION OF THE APPEARANCE OF THE HONORABLE CROSS IN JERUSALEM",
@@ -2984,6 +3112,7 @@
       "date_julian": "05-08",
       "date_gregorian": "05-21",
       "title": "HOLY APOSTLE AND EVANGELIST JOHN / VENERABLE ARSENIUS THE GREAT / SAINT EMILIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE AND EVANGELIST JOHN",
@@ -3011,6 +3140,7 @@
       "date_julian": "05-09",
       "date_gregorian": "05-22",
       "title": "HOLY PROPHET ISAIAH / SAINT NICHOLAS THE WONDERWORKER OF MYRA IN LYCIA / HOLY MARTYR CHRISTOPHER",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY PROPHET ISAIAH",
@@ -3034,6 +3164,7 @@
       "date_julian": "05-10",
       "date_gregorian": "05-23",
       "title": "HOLY APOSTLE SIMON THE ZEALOT / HOLY MARTYRS ALPHAEUS, PHILADELPHUS, AND CYRINUS / VENERABLE ISIDORA THE FOOL-FOR-CHRIST",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE SIMON THE ZEALOT",
@@ -3061,6 +3192,7 @@
       "date_julian": "05-11",
       "date_gregorian": "05-24",
       "title": "SAINTS CYRIL AND METHODIUS, EQUAL TO THE APOSTLES / PRIEST-MARTYR MOCIUS / SAINT NICODEMUS, ARCHBISHOP OF PEC",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINTS CYRIL AND METHODIUS, EQUAL TO THE APOSTLES",
@@ -3084,6 +3216,7 @@
       "date_julian": "05-12",
       "date_gregorian": "05-25",
       "title": "SAINT EPIPHANIUS, BISHOP OF CYPRUS / SAINT GERMANUS, PATRIARCH OF CONSTANTINOPLE / HOLY MARTYR PANCRATIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT EPIPHANIUS, BISHOP OF CYPRUS",
@@ -3107,6 +3240,7 @@
       "date_julian": "05-13",
       "date_gregorian": "05-26",
       "title": "HOLY MARTYR GLYCERIA / HOLY MARTYR ALEXANDER / VENERABLE JOHN, EUTHYMIUS, GEORGE, AND GABRIEL OF IVERON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR GLYCERIA",
@@ -3130,6 +3264,7 @@
       "date_julian": "05-14",
       "date_gregorian": "05-27",
       "title": "HOLY MARTYR ISIDORE / VENERABLE SERAPION THE SINDONITE / BLESSED ISIDORE THE FOOL-FOR-CHRIST",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR ISIDORE",
@@ -3153,6 +3288,7 @@
       "date_julian": "05-15",
       "date_gregorian": "05-28",
       "title": "VENERABLE PACHOMIUS THE GREAT / SAINT ACHILLEUS, BISHOP OF LARISSA / VENERABLE SILVANUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE PACHOMIUS THE GREAT",
@@ -3176,6 +3312,7 @@
       "date_julian": "05-16",
       "date_gregorian": "05-29",
       "title": "VENERABLE THEODORE THE SANCTIFIED / BLESSED VIRGIN MUSA / SAINT NICHOLAS MYSTICUS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE THEODORE THE SANCTIFIED",
@@ -3211,6 +3348,7 @@
       "date_julian": "05-17",
       "date_gregorian": "05-30",
       "title": "HOLY APOSTLE ANDRONICUS / HOLY MARTYR SOLOCHON / SAINT STEPHEN, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE ANDRONICUS",
@@ -3234,6 +3372,7 @@
       "date_julian": "05-18",
       "date_gregorian": "05-31",
       "title": "HOLY MARTYRS THEODOTUS AND SEVEN VIRGIN MARTYRS: THECUSA, ALEXANDRA, CLAUDIA, PHAÏNA, EUPHRASIA, MATRONA, AND JULIA / HOLY MARTYRS PETER, DIONYSIUS, ANDREW, PAUL, AND CHRISTINA / HOLY MARTYRS HERACLIUS, PAULINUS, AND BENEDIMUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS THEODOTUS AND SEVEN VIRGIN MARTYRS: THECUSA, ALEXANDRA, CLAUDIA, PHAÏNA, EUPHRASIA, MATRONA, AND JULIA",
@@ -3257,6 +3396,7 @@
       "date_julian": "05-19",
       "date_gregorian": "06-01",
       "title": "HOLY MARTYR PATRICK, BISHOP OF PRUSA, WITH THREE PRESBYTERS: ACACIUS, MENANDER, AND POLYENUS / SAINT JOHN, BISHOP OF THE GOTHS / HOLY PRINCE JOHN OF VOLOGDA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR PATRICK, BISHOP OF PRUSA, WITH THREE PRESBYTERS: ACACIUS, MENANDER, AND POLYENUS",
@@ -3280,6 +3420,7 @@
       "date_julian": "05-20",
       "date_gregorian": "06-02",
       "title": "HOLY MARTYR THALALAEUS / HOLY MARTYR ASCALON / VENERABLE STEPHEN OF PIPERI",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR THALALAEUS",
@@ -3303,6 +3444,7 @@
       "date_julian": "05-21",
       "date_gregorian": "06-03",
       "title": "HOLY EMPEROR CONSTANTINE AND EMPRESS HELENA / VENERABLE MARTYR PACHOMIUS / VENERABLE HELEN OF DECANI",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY EMPEROR CONSTANTINE AND EMPRESS HELENA",
@@ -3326,6 +3468,7 @@
       "date_julian": "05-22",
       "date_gregorian": "06-04",
       "title": "HOLY MARTYR BASILISCUS / HOLY MARTYR JOHN VLADIMIR, KING OF SERBIA / SECOND ECUMENICAL COUNCIL",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR BASILISCUS",
@@ -3353,6 +3496,7 @@
       "date_julian": "05-23",
       "date_gregorian": "06-05",
       "title": "SAINT MICHAEL, BISHOP OF SYNNADA / VENERABLE MARTYR MICHAEL / VENERABLE EUPHROSYNE, PRINCESS OF POLOTSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT MICHAEL, BISHOP OF SYNNADA",
@@ -3376,6 +3520,7 @@
       "date_julian": "05-24",
       "date_gregorian": "06-06",
       "title": "VENERABLE SIMEON THE STYLITE OF THE WONDERFUL MOUNTAIN / HOLY MARTYRS MELETIUS THE GENERAL AND ONE THOUSAND TWO HUNDRED AND EIGHTEEN SOLDIERS WITH THEIR WIVES AND CHILDREN / VENERABLE NIKITA THE STYLITE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE SIMEON THE STYLITE OF THE WONDERFUL MOUNTAIN",
@@ -3399,6 +3544,7 @@
       "date_julian": "05-25",
       "date_gregorian": "06-07",
       "title": "THIRD FINDING OF THE HEAD OF SAINT JOHN THE BAPTIST / HIEROMARTYR THERAPON, BISHOP OF CYPRUS / HOLY MARTYRS PASICRATES, VALENTIO, JULIUS, AND OTHERS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE THIRD FINDING OF THE HEAD OF SAINT JOHN THE BAPTIST",
@@ -3422,6 +3568,7 @@
       "date_julian": "05-26",
       "date_gregorian": "06-08",
       "title": "HOLY APOSTLE CARPUS / HOLY APOSTLE ALPHAEUS / VENERABLE JOHN OF PSYCHA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE CARPUS",
@@ -3449,6 +3596,7 @@
       "date_julian": "05-27",
       "date_gregorian": "06-09",
       "title": "HIEROMARTYR THERAPON, BISHOP OF SARDIS / HOLY MARTYRS THEODORA AND DIDYMUS / SAINT DAVID OF GAREJA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR THERAPON, BISHOP OF SARDIS",
@@ -3472,6 +3620,7 @@
       "date_julian": "05-28",
       "date_gregorian": "06-10",
       "title": "SAINT NICETAS THE CONFESSOR, BISHOP OF CHALCEDON / HOLY MARTYR HELICONIS / SAINT IGNATIUS, BISHOP OF ROSTOV",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT NICETAS THE CONFESSOR, BISHOP OF CHALCEDON",
@@ -3495,6 +3644,7 @@
       "date_julian": "05-29",
       "date_gregorian": "06-11",
       "title": "COMMEMORATION OF THE FIRST ECUMENICAL COUNCIL / HOLY MARTYR THEODOSIA OF TYRE / VENERABLE MARTYR THEODOSIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE COMMEMORATION OF THE FIRST ECUMENICAL COUNCIL",
@@ -3538,6 +3688,7 @@
       "date_julian": "05-30",
       "date_gregorian": "06-12",
       "title": "VENERABLE ISAAC THE CONFESSOR / SAINT MACRINA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE ISAAC THE CONFESSOR",
@@ -3557,6 +3708,7 @@
       "date_julian": "05-31",
       "date_gregorian": "06-13",
       "title": "HOLY APOSTLE HERMAS / HOLY MARTYR HERMIAS / HOLY MARTYR PHILOSOPHUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE HERMAS",
@@ -3580,6 +3732,7 @@
       "date_julian": "06-01",
       "date_gregorian": "06-14",
       "title": "HOLY MARTYR JUSTIN THE PHILOSOPHER / HOLY MARTYRS JUSTIN, CHARITON, CHARITA, EUELPISTUS, HIERAX, PAEON, VALERIAN, AND JUSTUS / VENERABLE AGAPITUS OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR JUSTIN THE PHILOSOPHER",
@@ -3603,6 +3756,7 @@
       "date_julian": "06-02",
       "date_gregorian": "06-15",
       "title": "SAINT NICEPHORUS THE CONFESSOR, PATRIARCH OF CONSTANTINOPLE / HOLY NEW MARTYR CONSTANTINE / HOLY MARTYR JOHN THE NEW OF SUCEAVA",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT NICEPHORUS THE CONFESSOR, PATRIARCH OF CONSTANTINOPLE",
@@ -3630,6 +3784,7 @@
       "date_julian": "06-03",
       "date_gregorian": "06-16",
       "title": "HOLY MARTYRS LUCILLIAN AND WITH HIM: CLAUDIUS, HYPATIUS, PAUL, DIONYSIUS, AND THE MAIDEN PAULA / HIEROMARTYR LUCIAN / HOLY MARTYR DEMETRIUS, TSAREVICH OF RUSSIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS LUCILLIAN AND WITH HIM: CLAUDIUS, HYPATIUS, PAUL, DIONYSIUS, AND THE MAIDEN PAULA",
@@ -3653,6 +3808,7 @@
       "date_julian": "06-04",
       "date_gregorian": "06-17",
       "title": "SAINT METROPHANES, FIRST PATRIARCH OF CONSTANTINOPLE / HOLY MARTYR CONCORDIUS / HOLY MARTYRS FRONTASIUS, SEVERINUS, SEVERIAN, AND SILANUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT METROPHANES, FIRST PATRIARCH OF CONSTANTINOPLE",
@@ -3688,6 +3844,7 @@
       "date_julian": "06-05",
       "date_gregorian": "06-18",
       "title": "HIEROMARTYR DOROTHEUS, BISHOP OF TYRE / VENERABLE THEODORE THE DESERT-DWELLER / VENERABLE ANUBIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR DOROTHEUS, BISHOP OF TYRE",
@@ -3723,6 +3880,7 @@
       "date_julian": "06-06",
       "date_gregorian": "06-19",
       "title": "VENERABLE BESSARION / VENERABLE HILARION THE NEW / VENERABLE MARTYRS ARCHELAIS, THECLA, AND SUSANNA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE BESSARION",
@@ -3746,6 +3904,7 @@
       "date_julian": "06-07",
       "date_gregorian": "06-20",
       "title": "HOLY MARTYR THEODOTUS OF ANCYRA / HOLY WOMEN MARTYRS CYRIACA, VALERIA, AND MARIA / HIEROMARTYR MARCELLUS, POPE OF ROME",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR THEODOTUS OF ANCYRA",
@@ -3777,6 +3936,7 @@
       "date_julian": "06-08",
       "date_gregorian": "06-21",
       "title": "SAINT EPHRAIM, PATRIARCH OF ANTIOCH / VENERABLE ZOSIMAS OF PHOENICIA / HOLY GREAT MARTYR THEODORE STRATELATES",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT EPHRAIM, PATRIARCH OF ANTIOCH",
@@ -3800,6 +3960,7 @@
       "date_julian": "06-09",
       "date_gregorian": "06-22",
       "title": "SAINT CYRIL, ARCHBISHOP OF ALEXANDRIA / SAINT CYRIL OF BELOZERSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT CYRIL, ARCHBISHOP OF ALEXANDRIA",
@@ -3819,6 +3980,7 @@
       "date_julian": "06-10",
       "date_gregorian": "06-23",
       "title": "HIEROMARTYR TIMOTHY, BISHOP OF PRUSA / HOLY MARTYRS ALEXANDER AND ANTONINA / SAINT BASSIAN, BISHOP OF LODI",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR TIMOTHY, BISHOP OF PRUSA",
@@ -3842,6 +4004,7 @@
       "date_julian": "06-11",
       "date_gregorian": "06-24",
       "title": "HOLY APOSTLE BARTHOLOMEW / HOLY APOSTLE BARNABAS / CELEBRATION OF THE ICON \"IT IS TRULY MEET\"",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE BARTHOLOMEW",
@@ -3865,6 +4028,7 @@
       "date_julian": "06-12",
       "date_gregorian": "06-25",
       "title": "VENERABLE ONUPHRIUS THE GREAT / VENERABLE PETER OF ATHOS / VENERABLE TIMOTHY, DESERT-DWELLER OF EGYPT",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE ONUPHRIUS THE GREAT",
@@ -3892,6 +4056,7 @@
       "date_julian": "06-13",
       "date_gregorian": "06-26",
       "title": "HOLY MARTYR AQUILINA / SAINT TRIPHYLLIUS, BISHOP OF LEUCOUSIA IN CYPRUS / SAINT ANNA AND HER SON JOHN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR AQUILINA",
@@ -3915,6 +4080,7 @@
       "date_julian": "06-14",
       "date_gregorian": "06-27",
       "title": "HOLY PROPHET ELISHA / SAINT METHODIUS, PATRIARCH OF CONSTANTINOPLE / SAINT JOHN, METROPOLITAN OF EUCHAITA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY PROPHET ELISHA",
@@ -3942,6 +4108,7 @@
       "date_julian": "06-15",
       "date_gregorian": "06-28",
       "title": "HOLY PROPHET AMOS / HOLY MARTYRS VITUS, MODESTUS, AND CRESCENTIA / VENERABLE MARTYR DULAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY PROPHET AMOS",
@@ -3977,6 +4144,7 @@
       "date_julian": "06-16",
       "date_gregorian": "06-29",
       "title": "SAINT TYCHON, BISHOP OF AMATHUS / HOLY MARTYRS TIGRIUS AND EUTROPIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT TYCHON, BISHOP OF AMATHUS",
@@ -3996,6 +4164,7 @@
       "date_julian": "06-17",
       "date_gregorian": "06-30",
       "title": "HOLY MARTYRS MANUEL, SABEL, AND ISHMAEL / VENERABLE PIOR, HERMIT OF NITRIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS MANUEL, SABEL, AND ISHMAEL",
@@ -4015,6 +4184,7 @@
       "date_julian": "06-18",
       "date_gregorian": "07-01",
       "title": "HOLY MARTYR LEONTIUS / VENERABLE LEONTIUS THE CLAIRVOYANT",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR LEONTIUS",
@@ -4034,6 +4204,7 @@
       "date_julian": "06-19",
       "date_gregorian": "07-02",
       "title": "HOLY APOSTLE JUDE / VENERABLE PAISIUS THE GREAT / HOLY MARTYR ZOSIMAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE JUDE",
@@ -4061,6 +4232,7 @@
       "date_julian": "06-20",
       "date_gregorian": "07-03",
       "title": "HIEROMARTYR METHODIUS, BISHOP OF PATARA / HOLY MARTYRS ARISTOCLES, DEMETRIAN, AND ATHANASIUS / VENERABLE NAUM OF OHRID",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR METHODIUS, BISHOP OF PATARA",
@@ -4096,6 +4268,7 @@
       "date_julian": "06-21",
       "date_gregorian": "07-04",
       "title": "HOLY MARTYR JULIAN OF TARSUS / VENERABLE JULIUS AND JULIAN / HOLY MARTYR ARCHIL II, KING OF GEORGIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR JULIAN OF TARSUS",
@@ -4123,6 +4296,7 @@
       "date_julian": "06-22",
       "date_gregorian": "07-05",
       "title": "HIEROMARTYR EUSEBIUS, BISHOP OF SAMOSATA / HOLY MARTYRS ZENON AND ZENAS / VENERABLE ANASTASIA, MOTHER OF SAINT SAVA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR EUSEBIUS, BISHOP OF SAMOSATA",
@@ -4146,6 +4320,7 @@
       "date_julian": "06-23",
       "date_gregorian": "07-06",
       "title": "HOLY MARTYR AGRIPPINA / HOLY MARTYRS EUSTOCHIUS, GAIUS, AND OTHERS WITH THEM / COMMEMORATION OF THE VLADIMIRSKAYA ICON OF THE MOST HOLY THEOTOKOS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR AGRIPPINA",
@@ -4173,6 +4348,7 @@
       "date_julian": "06-24",
       "date_gregorian": "07-07",
       "title": "NATIVITY OF THE HOLY JOHN THE FORERUNNER AND BAPTIST OF THE LORD / SAINT NICETAS, BISHOP OF REMESIANA / HOLY MARTYRS ORENTIUS, PHARNACIUS, EROS, FIRMUS, FIRMINUS, CYRIACUS, AND LONGINUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE NATIVITY OF THE HOLY JOHN THE FORERUNNER AND BAPTIST OF THE LORD",
@@ -4196,6 +4372,7 @@
       "date_julian": "06-25",
       "date_gregorian": "07-08",
       "title": "VENERABLE MARTYR FEBRONIA / VENERABLE DIONYSIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE MARTYR FEBRONIA",
@@ -4215,6 +4392,7 @@
       "date_julian": "06-26",
       "date_gregorian": "07-09",
       "title": "VENERABLE DAVID / FEAST OF THE TIKHVIN ICON / FEAST OF THE HODEGETRIA ICON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE VENERABLE DAVID",
@@ -4242,6 +4420,7 @@
       "date_julian": "06-27",
       "date_gregorian": "07-10",
       "title": "SAINT SAMPSON THE HOSPITABLE / SAINT SEVERUS, PRESBYTER / SAINT JOANNA THE MYRRH-BEARER",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SAMPSON THE HOSPITABLE",
@@ -4265,6 +4444,7 @@
       "date_julian": "06-28",
       "date_gregorian": "07-11",
       "title": "HOLY MARTYRS CYRUS AND JOHN / VENERABLE SENOUPHIOS THE STANDARD-BEARER / VENERABLE PAUL THE PHYSICIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS CYRUS AND JOHN",
@@ -4288,6 +4468,7 @@
       "date_julian": "06-29",
       "date_gregorian": "07-12",
       "title": "HOLY APOSTLE PETER / HOLY APOSTLE PAUL",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE PETER",
@@ -4307,6 +4488,7 @@
       "date_julian": "06-30",
       "date_gregorian": "07-13",
       "title": "SYNAXIS OF THE HOLY, GLORIOUS, AND ALL-PRAISED APOSTLES / BLESSED PRINCE PETER / VENERABLE GEORGE OF IVERON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE SYNAXIS OF THE HOLY, GLORIOUS, AND ALL-PRAISED APOSTLES",
@@ -4330,6 +4512,7 @@
       "date_julian": "07-01",
       "date_gregorian": "07-14",
       "title": "HOLY MARTYRS COSMAS AND DAMIAN / VENERABLE PETER THE PATRICIAN / HOLY MARTYR POTITUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS COSMAS AND DAMIAN",
@@ -4353,6 +4536,7 @@
       "date_julian": "07-02",
       "date_gregorian": "07-15",
       "title": "DEPOSITION OF THE ROBE OF THE MOST HOLY THEOTOKOS IN THE CHURCH OF BLACHERNAE IN CONSTANTINOPLE / HOLY JUVENAL, PATRIARCH OF JERUSALEM / HOLY PHOTIUS, METROPOLITAN OF MOSCOW",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE DEPOSITION OF THE ROBE OF THE MOST HOLY THEOTOKOS IN THE CHURCH OF BLACHERNAE IN CONSTANTINOPLE",
@@ -4376,6 +4560,7 @@
       "date_julian": "07-03",
       "date_gregorian": "07-16",
       "title": "HOLY MARTYR HYACINTH / HOLY ANATOLIUS, PATRIARCH OF CONSTANTINOPLE / VENERABLE ALEXANDER",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR HYACINTH",
@@ -4403,6 +4588,7 @@
       "date_julian": "07-04",
       "date_gregorian": "07-17",
       "title": "HOLY ANDREW, ARCHBISHOP OF CRETE / HOLY MARTHA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY ANDREW, ARCHBISHOP OF CRETE",
@@ -4422,6 +4608,7 @@
       "date_julian": "07-05",
       "date_gregorian": "07-18",
       "title": "The Venerable Athanasius of Athos / The Venerable Martyr Cyprian the New / The Venerable Lampadus",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Venerable Athanasius of Athos",
@@ -4445,6 +4632,7 @@
       "date_julian": "07-06",
       "date_gregorian": "07-19",
       "title": "The Venerable Sisoes the Great / The Holy Martyrs Marinus and Martha, with Their Sons Audifax and Abachum, the Priest Valentine, Cyrinus, Asterius, and Many Others / The Finding of the Relics of the Holy Virgin Juliana",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Venerable Sisoes the Great",
@@ -4472,6 +4660,7 @@
       "date_julian": "07-07",
       "date_gregorian": "07-20",
       "title": "The Holy Great Martyr Kyriake (Nedelja) / The Venerable Thomas of Malea / The Venerable Martyrs Epictetus and Astion",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Great Martyr Kyriake (Nedelja)",
@@ -4495,6 +4684,7 @@
       "date_julian": "07-08",
       "date_gregorian": "07-21",
       "title": "The Holy Great Martyr Procopius / The Blessed Procopius, Fool-for-Christ / The Venerable Theophilus the Myrrh-Gusher",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Great Martyr Procopius",
@@ -4518,6 +4708,7 @@
       "date_julian": "07-09",
       "date_gregorian": "07-22",
       "title": "The Hieromartyr Pancratius, Bishop of Taormina / The Hieromartyr Cyril, Bishop of Gortyna on Crete / The Venerable Martyrs Patermuthius and Copres",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Hieromartyr Pancratius, Bishop of Taormina",
@@ -4549,6 +4740,7 @@
       "date_julian": "07-10",
       "date_gregorian": "07-23",
       "title": "The Holy Forty-Five Martyrs: Leontius, Maurice, Alexander, Sisinius, and the Others / The Venerable Anthony of the Kiev Caves / The Translation of the Precious Robe of Our Lord Jesus Christ",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Forty-Five Martyrs: Leontius, Maurice, Alexander, Sisinius, and the Others",
@@ -4572,6 +4764,7 @@
       "date_julian": "07-11",
       "date_gregorian": "07-24",
       "title": "The Holy Great Martyr Euphemia / Saint Helen / The Venerable Martyr Nicodemus",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Great Martyr Euphemia",
@@ -4599,6 +4792,7 @@
       "date_julian": "07-12",
       "date_gregorian": "07-25",
       "title": "The Holy Martyrs Proclus and Hilary / The Venerable Michael Maleinos / The Holy Martyr Golindukha",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Martyrs Proclus and Hilary",
@@ -4630,6 +4824,7 @@
       "date_julian": "07-13",
       "date_gregorian": "07-26",
       "title": "HOLY ARCHANGEL GABRIEL / SAINT JULIAN, BISHOP OF LE MANS IN GAUL / VENERABLE STEPHEN THE SABAITE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY ARCHANGEL GABRIEL",
@@ -4657,6 +4852,7 @@
       "date_julian": "07-14",
       "date_gregorian": "07-27",
       "title": "HOLY APOSTLE AQUILA / VENERABLE ELIAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLE AQUILA",
@@ -4676,6 +4872,7 @@
       "date_julian": "07-15",
       "date_gregorian": "07-28",
       "title": "HOLY MARTYRS CYRICUS AND JULITTA / SAINT VLADIMIR, GREAT PRINCE OF RUSSIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS CYRICUS AND JULITTA",
@@ -4695,6 +4892,7 @@
       "date_julian": "07-16",
       "date_gregorian": "07-29",
       "title": "HIEROMARTYR ATHENOGENES, BISHOP OF SEBASTIA IN ARMENIA / HOLY VIRGIN MARTYR JULIA / HOLY 15,000 MARTYRS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR ATHENOGENES, BISHOP OF SEBASTIA IN ARMENIA",
@@ -4726,6 +4924,7 @@
       "date_julian": "07-17",
       "date_gregorian": "07-30",
       "title": "HOLY GREAT MARTYR MARINA / VENERABLE LEONID OF USTNEDUMSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY GREAT MARTYR MARINA",
@@ -4745,6 +4944,7 @@
       "date_julian": "07-18",
       "date_gregorian": "07-31",
       "title": "The Holy Martyr Emilian / The Venerable Pambo / The Venerable Paisius and Isaiah",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Martyr Emilian",
@@ -4772,6 +4972,7 @@
       "date_julian": "07-19",
       "date_gregorian": "08-01",
       "title": "The Venerable Macrina / The Venerable Dius / Commemoration of Stefan the Tall (Stefan Lazarevic)",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Venerable Macrina",
@@ -4795,6 +4996,7 @@
       "date_julian": "07-20",
       "date_gregorian": "08-02",
       "title": "The Holy Prophet Elijah / Saint Elijah, Patriarch of Jerusalem, and Saint Flavian, Patriarch of Antioch",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Prophet Elijah",
@@ -4814,6 +5016,7 @@
       "date_julian": "07-21",
       "date_gregorian": "08-03",
       "title": "The Holy Prophet Ezekiel / The Venerable Simeon and John",
+      "status": "translated",
       "lives": [
         {
           "heading": "The Holy Prophet Ezekiel",
@@ -4833,6 +5036,7 @@
       "date_julian": "07-22",
       "date_gregorian": "08-04",
       "title": "SAINT MARY MAGDALENE / HIEROMARTYR PHOCAS / VENERABLE CORNELIUS OF PEREYASLAVL",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT MARY MAGDALENE",
@@ -4860,6 +5064,7 @@
       "date_julian": "07-23",
       "date_gregorian": "08-05",
       "title": "HOLY MARTYRS TROPHIMUS AND THEOPHILUS, AND THIRTEEN OTHERS WITH THEM / HIEROMARTYR APOLLINARIS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYRS TROPHIMUS AND THEOPHILUS, AND THIRTEEN OTHERS WITH THEM",
@@ -4879,6 +5084,7 @@
       "date_julian": "07-24",
       "date_gregorian": "08-06",
       "title": "HOLY MARTYR CHRISTINA / VENERABLE POLYCARP, ABBOT OF THE KIEV CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR CHRISTINA",
@@ -4898,6 +5104,7 @@
       "date_julian": "07-25",
       "date_gregorian": "08-07",
       "title": "SAINT ANNA / SAINT OLYMPIAS THE DEACONESS / VENERABLE EUPRAXIA THE VIRGIN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ANNA",
@@ -4925,6 +5132,7 @@
       "date_julian": "07-26",
       "date_gregorian": "08-08",
       "title": "HIEROMARTYR HERMOLAUS / VENERABLE MARTYR PARASCEVA / VENERABLE MOSES THE HUNGARIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HIEROMARTYR HERMOLAUS",
@@ -4948,6 +5156,7 @@
       "date_julian": "07-27",
       "date_gregorian": "08-09",
       "title": "HOLY GREAT MARTYR PANTELEIMON / ST. CLEMENT, ARCHBISHOP OF OHRID / BLESSED NICHOLAS, FOOL FOR CHRIST OF NOVGOROD",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY GREAT MARTYR PANTELEIMON",
@@ -4979,6 +5188,7 @@
       "date_julian": "07-28",
       "date_gregorian": "08-10",
       "title": "HOLY APOSTLES PROCHORUS, NICANOR, TIMON, AND PARMENAS / HOLY MARTYR JULIAN / VENERABLE PAUL OF XEROPOTAMOU",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLES PROCHORUS, NICANOR, TIMON, AND PARMENAS",
@@ -5006,6 +5216,7 @@
       "date_julian": "07-29",
       "date_gregorian": "08-11",
       "title": "HOLY MARTYR CALLINICUS / HOLY VIRGIN MARTYR SERAPHIMA / HOLY MARTYR THEODOTIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR CALLINICUS",
@@ -5033,6 +5244,7 @@
       "date_julian": "07-30",
       "date_gregorian": "08-12",
       "title": "HOLY APOSTLES SILAS, SILVANUS, CRESCENS, EPAENETUS, AND ANDRONICUS / HIEROMARTYR VALENTINE / HIEROMARTYR POLYCHRONIUS, BISHOP OF BABYLON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY APOSTLES SILAS, SILVANUS, CRESCENS, EPAENETUS, AND ANDRONICUS",
@@ -5064,6 +5276,7 @@
       "date_julian": "07-31",
       "date_gregorian": "08-13",
       "title": "ST. EUDOCIMUS / HOLY MARTYR JULITTA / ST. JOSEPH OF ARIMATHEA",
+      "status": "translated",
       "lives": [
         {
           "heading": "ST. EUDOCIMUS",
@@ -5091,6 +5304,7 @@
       "date_julian": "08-01",
       "date_gregorian": "08-14",
       "title": "THE SEVEN MACCABEES, THEIR MOTHER SOLOMONIA, AND THE PRIEST ELEAZAR / PROCESSION OF THE PRECIOUS CROSS / THE HOLY NINE MARTYRS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE SEVEN MACCABEES, THEIR MOTHER SOLOMONIA, AND THE PRIEST ELEAZAR",
@@ -5114,6 +5328,7 @@
       "date_julian": "08-02",
       "date_gregorian": "08-15",
       "title": "DISCOVERY AND TRANSLATION OF THE RELICS OF SAINT STEPHEN THE ARCHDEACON AND PROTOMARTYR / HIEROMARTYR STEPHEN, POPE OF ROME / BLESSED BASIL, FOOL-FOR-CHRIST OF MOSCOW",
+      "status": "translated",
       "lives": [
         {
           "heading": "DISCOVERY AND TRANSLATION OF THE RELICS OF SAINT STEPHEN THE ARCHDEACON AND PROTOMARTYR",
@@ -5137,6 +5352,7 @@
       "date_julian": "08-03",
       "date_gregorian": "08-16",
       "title": "VENERABLE ISAAC, DALMATUS, AND FAUSTUS / VENERABLE COSMAS THE EUNUCH / VENERABLE ANTHONY OF ROME / SAINT SALOME THE MYRRH-BEARER",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE ISAAC, DALMATUS, AND FAUSTUS",
@@ -5164,6 +5380,7 @@
       "date_julian": "08-04",
       "date_gregorian": "08-17",
       "title": "THE HOLY SEVEN YOUTHS OF EPHESUS / HIEROMARTYR COSMAS, EQUAL-TO-THE-APOSTLES",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY SEVEN YOUTHS OF EPHESUS",
@@ -5183,6 +5400,7 @@
       "date_julian": "08-05",
       "date_gregorian": "08-18",
       "title": "HOLY MARTYR EUSIGNIUS / HIEROMARTYR FABIUS, POPE OF ROME / HOLY MARTYR PONTIUS THE SENATOR / SAINT NONNA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR EUSIGNIUS",
@@ -5210,6 +5428,7 @@
       "date_julian": "08-06",
       "date_gregorian": "08-19",
       "title": "THE TRANSFIGURATION OF OUR LORD, GOD, AND SAVIOR JESUS CHRIST",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE TRANSFIGURATION OF OUR LORD, GOD, AND SAVIOR JESUS CHRIST",
@@ -5225,6 +5444,7 @@
       "date_julian": "08-07",
       "date_gregorian": "08-20",
       "title": "VENERABLE MARTYR DOMETIUS / VENERABLE OR",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR DOMETIUS",
@@ -5256,6 +5476,7 @@
       "date_julian": "08-08",
       "date_gregorian": "08-21",
       "title": "SAINT EMILIAN THE CONFESSOR, BISHOP OF CYZICUS / SAINT MYRON THE WONDERWORKER, BISHOP OF CRETE / VENERABLE GREGORY OF SINAI",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT EMILIAN THE CONFESSOR, BISHOP OF CYZICUS",
@@ -5287,6 +5508,7 @@
       "date_julian": "08-09",
       "date_gregorian": "08-22",
       "title": "HOLY APOSTLE MATTHIAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE MATTHIAS",
@@ -5310,6 +5532,7 @@
       "date_julian": "08-10",
       "date_gregorian": "08-23",
       "title": "HOLY MARTYR LAURENCE THE ARCHDEACON / POPE SIXTUS AND OTHERS WITH THEM",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR LAURENCE THE ARCHDEACON, AND POPE SIXTUS, AND OTHERS WITH THEM",
@@ -5329,6 +5552,7 @@
       "date_julian": "08-11",
       "date_gregorian": "08-24",
       "title": "HOLY MARTYR EUPLUS / HOLY MARTYR SUSANNA THE VIRGIN AND OTHERS WITH HER / SAINT NIPHON, PATRIARCH OF CONSTANTINOPLE / VENERABLE BASIL AND THEODORE OF THE CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR EUPLUS",
@@ -5356,6 +5580,7 @@
       "date_julian": "08-12",
       "date_gregorian": "08-25",
       "title": "HOLY MARTYRS ANICETAS AND PHOTIUS / HIEROMARTYR ALEXANDER, BISHOP OF COMANA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS ANICETAS AND PHOTIUS",
@@ -5375,6 +5600,7 @@
       "date_julian": "08-13",
       "date_gregorian": "08-26",
       "title": "HOLY MARTYR HIPPOLYTUS / SAINT TIKHON OF ZADONSK / VENERABLE EMPRESS IRENE, IN MONASTICISM XENIA / VENERABLE SERID",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR HIPPOLYTUS",
@@ -5402,6 +5628,7 @@
       "date_julian": "08-14",
       "date_gregorian": "08-27",
       "title": "HOLY PROPHET MICAH / HIEROMARTYR MARCELLUS, BISHOP OF APAMEA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET MICAH",
@@ -5421,6 +5648,7 @@
       "date_julian": "08-15",
       "date_gregorian": "08-28",
       "title": "THE DORMITION OF THE MOST HOLY THEOTOKOS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE DORMITION OF THE MOST HOLY THEOTOKOS",
@@ -5436,6 +5664,7 @@
       "date_julian": "08-16",
       "date_gregorian": "08-29",
       "title": "THE IMAGE OF OUR LORD JESUS CHRIST NOT MADE BY HANDS / HOLY MARTYR DIOMEDES",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE IMAGE OF OUR LORD JESUS CHRIST NOT MADE BY HANDS",
@@ -5463,6 +5692,7 @@
       "date_julian": "08-17",
       "date_gregorian": "08-30",
       "title": "HOLY MARTYR MYRON THE PRESBYTER / HOLY MARTYR PATROCLUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR MYRON THE PRESBYTER",
@@ -5490,6 +5720,7 @@
       "date_julian": "08-18",
       "date_gregorian": "08-31",
       "title": "VENERABLE JOHN OF RILA / HOLY MARTYRS FLORUS AND LAURUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE JOHN OF RILA",
@@ -5513,6 +5744,7 @@
       "date_julian": "08-19",
       "date_gregorian": "09-01",
       "title": "HOLY MARTYR ANDREW STRATELATES / VENERABLE THEOPHANES",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR ANDREW STRATELATES",
@@ -5536,6 +5768,7 @@
       "date_julian": "08-20",
       "date_gregorian": "09-02",
       "title": "HOLY PROPHET SAMUEL / HIEROMARTYR PHILIP, BISHOP OF HERACLEA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET SAMUEL",
@@ -5555,6 +5788,7 @@
       "date_julian": "08-21",
       "date_gregorian": "09-03",
       "title": "HOLY APOSTLE THADDAEUS / HOLY MARTYR BASSA AND HER CHILDREN: THEOGNIUS, AGAPIUS, AND PISTUS / VENERABLE ABRAAMIUS OF SMOLENSK / HOLY FOREFATHERS ABRAHAM, ISAAC, AND JACOB",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE THADDAEUS",
@@ -5582,6 +5816,7 @@
       "date_julian": "08-22",
       "date_gregorian": "09-04",
       "title": "HOLY MARTYRS AGATHANICUS, ZOTICUS, AND OTHERS WITH THEM / HOLY MARTYR EULALIA / HOLY MARTYR ANTHUSA AND OTHERS WITH HER",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS AGATHANICUS, ZOTICUS, AND OTHERS WITH THEM",
@@ -5605,6 +5840,7 @@
       "date_julian": "08-23",
       "date_gregorian": "09-05",
       "title": "HOLY MARTYR LUPUS / HIEROMARTYR POTHINUS, BISHOP OF LYONS / HIEROMARTYR IRENAEUS, BISHOP OF LYONS / HOLY MARTYR VICTOR / HOLY MARTYR ALBAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR LUPUS",
@@ -5636,6 +5872,7 @@
       "date_julian": "08-24",
       "date_gregorian": "09-06",
       "title": "HIEROMARTYR EUTYCHIUS / HOLY MARTYR TATION / HOLY MARTYR SIRA / VENERABLE ARSENIUS OF KOMEL / SAINT GEORGE LIMNIOTES THE CONFESSOR",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR EUTYCHIUS",
@@ -5667,6 +5904,7 @@
       "date_julian": "08-25",
       "date_gregorian": "09-07",
       "title": "HOLY APOSTLE BARTHOLOMEW / HOLY APOSTLE TITUS / HOLY CONFESSORS OF EDESSA / SAINT MENAS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE BARTHOLOMEW",
@@ -5694,6 +5932,7 @@
       "date_julian": "08-26",
       "date_gregorian": "09-08",
       "title": "HOLY MARTYRS ADRIAN AND NATALIA / VENERABLE TITHOES / SAINT ZAR'A YAQOB / MIRACLE OF THE MOST HOLY THEOTOKOS IN MOSCOW",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS ADRIAN AND NATALIA",
@@ -5721,6 +5960,7 @@
       "date_julian": "08-27",
       "date_gregorian": "09-09",
       "title": "VENERABLE PIMEN THE GREAT / VENERABLE PIMEN OF PALESTINE",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PIMEN THE GREAT",
@@ -5748,6 +5988,7 @@
       "date_julian": "08-28",
       "date_gregorian": "09-10",
       "title": "VENERABLE MOSES THE BLACK / VENERABLE SABBAS OF PSKOV AND KRYPETSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MOSES THE BLACK",
@@ -5771,6 +6012,7 @@
       "date_julian": "08-29",
       "date_gregorian": "09-11",
       "title": "THE BEHEADING OF SAINT JOHN THE BAPTIST / VENERABLE THEODORA OF THESSALONICA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE BEHEADING OF SAINT JOHN THE BAPTIST",
@@ -5798,6 +6040,7 @@
       "date_julian": "08-30",
       "date_gregorian": "09-12",
       "title": "SYNAXIS OF THE HOLY SERBIAN ENLIGHTENERS AND TEACHERS / SAINTS ALEXANDER, JOHN AND PAUL, PATRIARCHS OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SYNAXIS OF THE HOLY SERBIAN ENLIGHTENERS AND TEACHERS",
@@ -5825,6 +6068,7 @@
       "date_julian": "08-31",
       "date_gregorian": "09-13",
       "title": "THE FEAST OF THE CINCTURE OF THE MOST HOLY THEOTOKOS / SAINT GENNADIUS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE FEAST OF THE CINCTURE OF THE MOST HOLY THEOTOKOS",
@@ -5852,6 +6096,7 @@
       "date_julian": "09-01",
       "date_gregorian": "09-14",
       "title": "THE BEGINNING OF THE CHURCH YEAR / VENERABLE SIMEON THE STYLITE / HOLY JOSHUA THE SON OF NUN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE BEGINNING OF THE CHURCH YEAR (OR: THE BEGINNING OF THE INDICTION)",
@@ -5875,6 +6120,7 @@
       "date_julian": "09-02",
       "date_gregorian": "09-15",
       "title": "HOLY MARTYR MAMMAS / SAINT JOHN THE FASTER, PATRIARCH OF CONSTANTINOPLE / HOLY ELEAZAR",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR MAMMAS",
@@ -5902,6 +6148,7 @@
       "date_julian": "09-03",
       "date_gregorian": "09-16",
       "title": "HIEROMARTYR ANTHIMUS / HOLY MARTYR BASILISSA / SAINT JOANNICIUS, FIRST PATRIARCH OF SERBIA / VENERABLE THEOCTISTUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR ANTHIMUS",
@@ -5929,6 +6176,7 @@
       "date_julian": "09-04",
       "date_gregorian": "09-17",
       "title": "HIEROMARTYR BABYLAS / HOLY PROPHET MOSES THE GOD-SEER / HOLY MARTYRS MARCELLUS AND CASSIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR BABYLAS",
@@ -5952,6 +6200,7 @@
       "date_julian": "09-05",
       "date_gregorian": "09-18",
       "title": "HOLY PROPHET ZACHARIAH / HOLY MARTYRS JUVENTINUS AND MAXIMINUS / HOLY SEVENTY MARTYRS / VENERABLE ATHANASIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET ZACHARIAH",
@@ -5979,6 +6228,7 @@
       "date_julian": "09-06",
       "date_gregorian": "09-19",
       "title": "COMMEMORATION OF THE MIRACLE OF THE HOLY ARCHANGEL MICHAEL / HOLY MARTYR ROMILUS AND 11,000 SOLDIERS",
+      "status": "translated",
       "lives": [
         {
           "heading": "COMMEMORATION OF THE MIRACLE OF THE HOLY ARCHANGEL MICHAEL",
@@ -6006,6 +6256,7 @@
       "date_julian": "09-07",
       "date_gregorian": "09-20",
       "title": "HOLY MARTYR SOZON / HOLY APOSTLES EVODIUS AND ONESIPHORUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR SOZON",
@@ -6033,6 +6284,7 @@
       "date_julian": "09-08",
       "date_gregorian": "09-21",
       "title": "THE NATIVITY OF THE MOST HOLY THEOTOKOS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE NATIVITY OF THE MOST HOLY THEOTOKOS",
@@ -6056,6 +6308,7 @@
       "date_julian": "09-09",
       "date_gregorian": "09-22",
       "title": "SAINTS JOACHIM AND ANNA / COMMEMORATION OF THE THIRD ECUMENICAL COUNCIL",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINTS JOACHIM AND ANNA",
@@ -6087,6 +6340,7 @@
       "date_julian": "09-10",
       "date_gregorian": "09-23",
       "title": "HOLY MARTYRS MENODORA, METRODORA, AND NYMPHODORA / SAINT PULCHERIA THE EMPRESS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS MENODORA, METRODORA, AND NYMPHODORA",
@@ -6114,6 +6368,7 @@
       "date_julian": "09-11",
       "date_gregorian": "09-24",
       "title": "VENERABLE THEODORA OF ALEXANDRIA / SAINT PAPHNUTIUS THE CONFESSOR / VENERABLE EUPHROSYNUS THE COOK",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE THEODORA OF ALEXANDRIA",
@@ -6145,6 +6400,7 @@
       "date_julian": "09-12",
       "date_gregorian": "09-25",
       "title": "HIEROMARTYR AUTONOMUS / HIEROMARTYR CORNUTUS, BISHOP OF ICONIUM / HOLY MARTYR JULIAN WITH FORTY COMPANIONS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR AUTONOMUS",
@@ -6176,6 +6432,7 @@
       "date_julian": "09-13",
       "date_gregorian": "09-26",
       "title": "THE CONSECRATION OF THE CHURCH OF CHRIST'S RESURRECTION / HIEROMARTYR CORNELIUS THE CENTURION / HOLY MARTYRS MACROVIUS AND GORDIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE CONSECRATION OF THE CHURCH OF CHRIST'S RESURRECTION",
@@ -6207,6 +6464,7 @@
       "date_julian": "09-14",
       "date_gregorian": "09-27",
       "title": "THE EXALTATION OF THE PRECIOUS AND LIFE-GIVING CROSS / SAINT EMPRESS PLACIDIA / VENERABLE MARTYR MACARIUS OF THESSALONICA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE EXALTATION OF THE PRECIOUS AND LIFE-GIVING CROSS",
@@ -6234,6 +6492,7 @@
       "date_julian": "09-15",
       "date_gregorian": "09-28",
       "title": "HOLY GREAT MARTYR NICETAS THE GOTH / VENERABLE PHILOTHEUS / HOLY MARTYR PORPHYRIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR NICETAS THE GOTH",
@@ -6273,6 +6532,7 @@
       "date_julian": "09-16",
       "date_gregorian": "09-29",
       "title": "HOLY GREAT MARTYR EUPHEMIA / VENERABLE DOROTHEUS / SAINT CYPRIAN, METROPOLITAN OF KIEV",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR EUPHEMIA",
@@ -6300,6 +6560,7 @@
       "date_julian": "09-17",
       "date_gregorian": "09-30",
       "title": "HOLY MARTYRS FAITH, HOPE, AND LOVE, AND THEIR MOTHER SOPHIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS FAITH, HOPE, AND LOVE, AND THEIR MOTHER SOPHIA",
@@ -6327,6 +6588,7 @@
       "date_julian": "09-18",
       "date_gregorian": "10-01",
       "title": "SAINT EUMENIUS, BISHOP OF GORTYNA / HOLY MARTYR ARIADNE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT EUMENIUS, BISHOP OF GORTYNA, ON CRETE",
@@ -6350,6 +6612,7 @@
       "date_julian": "09-19",
       "date_gregorian": "10-02",
       "title": "HOLY MARTYRS TROPHIMUS, SABBATIUS, AND DORYMEDON",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS TROPHIMUS, SABBATIUS, AND DORYMEDON",
@@ -6373,6 +6636,7 @@
       "date_julian": "09-20",
       "date_gregorian": "10-03",
       "title": "HOLY GREAT MARTYR EUSTATHIUS PLACIDAS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR EUSTATHIUS PLACIDAS",
@@ -6396,6 +6660,7 @@
       "date_julian": "09-21",
       "date_gregorian": "10-04",
       "title": "HOLY APOSTLE QUADRATUS / HIEROMARTYR HYPATIUS, BISHOP OF EPHESUS, AND ANDREW THE PRESBYTER / SAINT DEMETRIUS, BISHOP OF ROSTOV / SYNAXIS OF THE SAINTS OF THE KIEV CAVES",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE QUADRATUS",
@@ -6423,6 +6688,7 @@
       "date_julian": "09-22",
       "date_gregorian": "10-05",
       "title": "HIEROMARTYR PHOCAS, BISHOP OF SINOPE / HOLY PROPHET JONAH / HOLY MARTYR PHOCAS THE GARDENER / VENERABLE COSMAS OF ZOGRAPHOU / SAINT PETER THE MERCIFUL / SAINT JONAH THE PRESBYTER",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR PHOCAS, BISHOP OF SINOPE",
@@ -6458,6 +6724,7 @@
       "date_julian": "09-23",
       "date_gregorian": "10-06",
       "title": "THE CONCEPTION OF SAINT JOHN THE BAPTIST / HOLY MARTYR IRAIDA / HOLY NEW MARTYR NICHOLAS PANTOPOLIS / HOLY NEW MARTYR JOHN",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE CONCEPTION OF SAINT JOHN THE BAPTIST",
@@ -6485,6 +6752,7 @@
       "date_julian": "09-24",
       "date_gregorian": "10-07",
       "title": "HOLY PROTOMARTYR THEKLA, EQUAL TO THE APOSTLES / SAINT STEPHEN, FIRST-CROWNED KING OF SERBIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROTOMARTYR THEKLA, EQUAL TO THE APOSTLES",
@@ -6504,6 +6772,7 @@
       "date_julian": "09-25",
       "date_gregorian": "10-08",
       "title": "VENERABLE EUPHROSYNE / VENERABLE SERGIUS OF RADONEZH / VENERABLE EUPHROSYNE OF SUZDAL",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE EUPHROSYNE",
@@ -6527,6 +6796,7 @@
       "date_julian": "09-26",
       "date_gregorian": "10-09",
       "title": "HOLY APOSTLE AND EVANGELIST JOHN THE THEOLOGIAN / VENERABLE NILUS OF CALABRIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE AND EVANGELIST JOHN THE THEOLOGIAN",
@@ -6546,6 +6816,7 @@
       "date_julian": "09-27",
       "date_gregorian": "10-10",
       "title": "HOLY MARTYR CALLISTRATUS / HOLY APOSTLES MARK, ARISTARCHUS, AND ZENAS / HOLY NEW MARTYR AQUILINA / VENERABLE SABBATIUS OF SOLOVKI",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR CALLISTRATUS",
@@ -6573,6 +6844,7 @@
       "date_julian": "09-28",
       "date_gregorian": "10-11",
       "title": "VENERABLE CHARITON THE CONFESSOR / HOLY PROPHET BARUCH / HOLY MARTYR MARK THE SHEPHERD / HOLY MARTYR WENCESLAUS, KING OF BOHEMIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE CHARITON THE CONFESSOR",
@@ -6600,6 +6872,7 @@
       "date_julian": "09-29",
       "date_gregorian": "10-12",
       "title": "VENERABLE CYRIACUS THE HERMIT / HOLY MARTYRS DADA AND GOBDELAS / SAINT THEOPHANES THE MERCIFUL / SAINT MARY OF PALESTINE",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE CYRIACUS THE HERMIT",
@@ -6627,6 +6900,7 @@
       "date_julian": "09-30",
       "date_gregorian": "10-13",
       "title": "SAINT GREGORY THE ENLIGHTENER, BISHOP OF ARMENIA / HOLY MARTYRS GAIANA, RHIPSIMIA, AND THE OTHER THIRTY-FIVE NUNS / SAINT MICHAEL, FIRST METROPOLITAN OF KIEV",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT GREGORY THE ENLIGHTENER, BISHOP OF ARMENIA",
@@ -6650,6 +6924,7 @@
       "date_julian": "10-01",
       "date_gregorian": "10-14",
       "title": "THE PROTECTION OF THE MOST HOLY THEOTOKOS / HOLY APOSTLE ANANIAS / VENERABLE ROMANOS THE MELODIST / VENERABLE JOHN KOUKOUZELIS / VENERABLE GREGORY",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE PROTECTION OF THE MOST HOLY THEOTOKOS",
@@ -6681,6 +6956,7 @@
       "date_julian": "10-02",
       "date_gregorian": "10-15",
       "title": "SAINT ANDREW THE FOOL-FOR-CHRIST / HIEROMARTYR CYPRIAN AND HOLY VIRGIN MARTYR JUSTINA / HOLY MARTYRS DAVID AND CONSTANTINE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ANDREW THE FOOL-FOR-CHRIST",
@@ -6704,6 +6980,7 @@
       "date_julian": "10-03",
       "date_gregorian": "10-16",
       "title": "HIEROMARTYR DIONYSIUS THE AREOPAGITE / VENERABLE JOHN THE CHOZEBITE / VENERABLE DIONYSIUS OF THE CAVES / SAINT HESYCHIUS THE HOREBITE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR DIONYSIUS THE AREOPAGITE",
@@ -6731,6 +7008,7 @@
       "date_julian": "10-04",
       "date_gregorian": "10-17",
       "title": "HIEROMARTYR HIEROTHEUS / SAINT STEFAN STILJANOVIC / VENERABLE AMMON / VENERABLE PAUL THE SIMPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR HIEROTHEUS",
@@ -6758,6 +7036,7 @@
       "date_julian": "10-05",
       "date_gregorian": "10-18",
       "title": "HOLY MARTYR CHARITINA / HIEROMARTYR DIONYSIUS, BISHOP OF ALEXANDRIA / VENERABLE EUDOCIMUS OF VATOPEDI / VENERABLE DAMIAN, JEREMIAH, AND MATTHEW",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR CHARITINA",
@@ -6785,6 +7064,7 @@
       "date_julian": "10-06",
       "date_gregorian": "10-19",
       "title": "HOLY APOSTLE THOMAS / VENERABLE NEW MARTYR MACARIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE THOMAS",
@@ -6804,6 +7084,7 @@
       "date_julian": "10-07",
       "date_gregorian": "10-20",
       "title": "HOLY MARTYRS SERGIUS AND BACCHUS / HOLY MARTYR POLYCHRONIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS SERGIUS AND BACCHUS",
@@ -6823,6 +7104,7 @@
       "date_julian": "10-08",
       "date_gregorian": "10-21",
       "title": "VENERABLE PELAGIA / VENERABLE TAISIA / HOLY VIRGIN MARTYR PELAGIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PELAGIA",
@@ -6846,6 +7128,7 @@
       "date_julian": "10-09",
       "date_gregorian": "10-22",
       "title": "HOLY APOSTLE JAMES, SON OF ALPHAEUS / VENERABLE ANDRONICUS AND HIS WIFE ATHANASIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE JAMES, SON OF ALPHAEUS",
@@ -6877,6 +7160,7 @@
       "date_julian": "10-10",
       "date_gregorian": "10-23",
       "title": "HOLY MARTYRS EULAMPIUS AND EULAMPIA / HOLY ZOGRAPHOU MARTYRS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS EULAMPIUS AND EULAMPIA",
@@ -6908,6 +7192,7 @@
       "date_julian": "10-11",
       "date_gregorian": "10-24",
       "title": "HOLY APOSTLE PHILIP / COMMEMORATION OF THE SEVENTH ECUMENICAL COUNCIL / VENERABLE THEOPHANES THE BRANDED",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE PHILIP",
@@ -6939,6 +7224,7 @@
       "date_julian": "10-12",
       "date_gregorian": "10-25",
       "title": "HOLY MARTYRS TARACHUS, PROBUS, AND ANDRONICUS / SAINT MARTIN, BISHOP OF TOURS / VENERABLE COSMAS OF MAIUMA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS TARACHUS, PROBUS, AND ANDRONICUS",
@@ -6962,6 +7248,7 @@
       "date_julian": "10-13",
       "date_gregorian": "10-26",
       "title": "HOLY MARTYRS CARPUS AND PAPYLUS / HIEROMARTYR BENJAMIN THE DEACON / HOLY GREAT MARTYR ZLATA OF MEGLEN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS CARPUS AND PAPYLUS",
@@ -6985,6 +7272,7 @@
       "date_julian": "10-14",
       "date_gregorian": "10-27",
       "title": "VENERABLE PARASCEVA (PETKA) / HOLY MARTYRS NAZARIUS, GERVASIUS, AND PROTASIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PARASCEVA (PETKA)",
@@ -7004,6 +7292,7 @@
       "date_julian": "10-15",
       "date_gregorian": "10-28",
       "title": "VENERABLE MARTYR LUCIAN, PRESBYTER OF ANTIOCH / VENERABLE EUTHYMIUS THE NEW",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR LUCIAN, PRESBYTER OF ANTIOCH",
@@ -7023,6 +7312,7 @@
       "date_julian": "10-16",
       "date_gregorian": "10-29",
       "title": "HOLY MARTYR LONGINUS / VENERABLE LONGINUS THE LABORIOUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR LONGINUS",
@@ -7042,6 +7332,7 @@
       "date_julian": "10-17",
       "date_gregorian": "10-30",
       "title": "HOLY PROPHET HOSEA / HOLY UNMERCENARY MARTYRS COSMAS AND DAMIAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET HOSEA",
@@ -7069,6 +7360,7 @@
       "date_julian": "10-18",
       "date_gregorian": "10-31",
       "title": "HOLY APOSTLE AND EVANGELIST LUKE / SAINT PETER OF CETINJE, METROPOLITAN OF MONTENEGRO",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE AND EVANGELIST LUKE",
@@ -7092,6 +7384,7 @@
       "date_julian": "10-19",
       "date_gregorian": "11-01",
       "title": "HOLY PROPHET JOEL / HOLY MARTYR VARUS / VENERABLE PROCHORUS OF PCINJA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET JOEL",
@@ -7115,6 +7408,7 @@
       "date_julian": "10-20",
       "date_gregorian": "11-02",
       "title": "HOLY GREAT MARTYR ARTEMIUS / HOLY RIGHTEOUS ARTEMIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR ARTEMIUS",
@@ -7142,6 +7436,7 @@
       "date_julian": "10-21",
       "date_gregorian": "11-03",
       "title": "VENERABLE HILARION THE GREAT / SAINT HILARION, BISHOP OF MEGLEN",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE HILARION THE GREAT",
@@ -7165,6 +7460,7 @@
       "date_julian": "10-22",
       "date_gregorian": "11-04",
       "title": "SAINT ABERCIUS, EQUAL TO THE APOSTLES / VENERABLE LOT",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT ABERCIUS, EQUAL TO THE APOSTLES",
@@ -7188,6 +7484,7 @@
       "date_julian": "10-23",
       "date_gregorian": "11-05",
       "title": "HOLY APOSTLE JAMES, THE BROTHER OF THE LORD / SAINT IGNATIUS, PATRIARCH OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE JAMES, THE BROTHER OF THE LORD",
@@ -7211,6 +7508,7 @@
       "date_julian": "10-24",
       "date_gregorian": "11-06",
       "title": "HOLY MARTYR ARETHAS / SAINT ELESBAAN, EMPEROR OF ETHIOPIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR ARETHAS",
@@ -7238,6 +7536,7 @@
       "date_julian": "10-25",
       "date_gregorian": "11-07",
       "title": "HOLY MARTYRS MARCIAN AND MARTYRIUS / HOLY MARTYR ANASTASIUS / SAINT TABITHA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS MARCIAN AND MARTYRIUS",
@@ -7261,6 +7560,7 @@
       "date_julian": "10-26",
       "date_gregorian": "11-08",
       "title": "HOLY GREAT MARTYR DEMETRIUS / VENERABLE MARTYR JOASAPH",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR DEMETRIUS",
@@ -7284,6 +7584,7 @@
       "date_julian": "10-27",
       "date_gregorian": "11-09",
       "title": "HOLY MARTYR NESTOR / VENERABLE NESTOR THE CHRONICLER / SAINT ANDREW, PRINCE OF SMOLENSK",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR NESTOR",
@@ -7307,6 +7608,7 @@
       "date_julian": "10-28",
       "date_gregorian": "11-10",
       "title": "HOLY MARTYR PARASCEVA / SAINT ARSENIUS, ARCHBISHOP OF PEC",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR PARASCEVA",
@@ -7342,6 +7644,7 @@
       "date_julian": "10-29",
       "date_gregorian": "11-11",
       "title": "VENERABLE MARTYR ANASTASIA THE ROMAN / VENERABLE ABRAHAM THE RECLUSE AND HIS NIECE MARY",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR ANASTASIA THE ROMAN",
@@ -7365,6 +7668,7 @@
       "date_julian": "10-30",
       "date_gregorian": "11-12",
       "title": "HIEROMARTYR ZENOBIUS AND HIS SISTER ZENOBIA / HOLY KING MILUTIN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR ZENOBIUS AND HIS SISTER ZENOBIA",
@@ -7388,6 +7692,7 @@
       "date_julian": "10-31",
       "date_gregorian": "11-13",
       "title": "HOLY APOSTLES STACHYS, AMPLIAS, URBAN, NARCISSUS, APELLES, AND ARISTOBULUS / HOLY MARTYR EPIMACHUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLES STACHYS, AMPLIAS, URBAN, NARCISSUS, APELLES, AND ARISTOBULUS",
@@ -7415,6 +7720,7 @@
       "date_julian": "11-01",
       "date_gregorian": "11-14",
       "title": "Saints Cosmas and Damian / Saint Martyr Hermenegild the Prince / Venerable Martyr James with his disciples James and Dionysius",
+      "status": "verified",
       "lives": [
         {
           "heading": "Saints Cosmas and Damian",
@@ -7438,6 +7744,7 @@
       "date_julian": "11-02",
       "date_gregorian": "11-15",
       "title": "Holy Martyrs Acindynus, Pegasius, Anempodistus, Aphthonius, Elpidephorus and others with them / Venerable Marcian of Cyrrhus / Hieromartyr Victorinus, Bishop of Pettau",
+      "status": "verified",
       "lives": [
         {
           "heading": "Holy Martyrs Acindynus, Pegasius, Anempodistus, Aphthonius, Elpidephorus and others with them",
@@ -7461,6 +7768,7 @@
       "date_julian": "11-03",
       "date_gregorian": "11-16",
       "title": "Hieromartyr Acepsimas, Bishop of Naeson, and others with him / Holy Great Martyr George / Venerable Elias of Egypt",
+      "status": "verified",
       "lives": [
         {
           "heading": "Hieromartyr Acepsimas, Bishop of Naeson, and others with him",
@@ -7484,6 +7792,7 @@
       "date_julian": "11-04",
       "date_gregorian": "11-17",
       "title": "Venerable Joannicius the Great / Hieromartyrs Nicander, Bishop of Myra, and Hermas the Presbyter",
+      "status": "verified",
       "lives": [
         {
           "heading": "Venerable Joannicius the Great",
@@ -7503,6 +7812,7 @@
       "date_julian": "11-05",
       "date_gregorian": "11-18",
       "title": "Venerable Martyrs Galaction and Episteme / Holy Apostles: Patrobas, Hermas, Linus, Gaius, and Philologus / Saint Jonah, Archbishop of Novgorod",
+      "status": "verified",
       "lives": [
         {
           "heading": "Venerable Martyrs Galaction and Episteme",
@@ -7526,6 +7836,7 @@
       "date_julian": "11-06",
       "date_gregorian": "11-19",
       "title": "SAINT PAUL THE CONFESSOR, PATRIARCH OF CONSTANTINOPLE / VENERABLE BARLAAM THE WONDERWORKER OF KHUTYN / COMMEMORATION OF THE FALLING OF ASHES FROM THE SKY",
+      "status": "verified",
       "lives": [
         {
           "heading": "SAINT PAUL THE CONFESSOR, PATRIARCH OF CONSTANTINOPLE",
@@ -7549,6 +7860,7 @@
       "date_julian": "11-07",
       "date_gregorian": "11-20",
       "title": "HOLY MARTYR HIERON AND HIS COMPANIONS / HOLY MARTYRS THESSALONICA WITH AUCTUS AND TAURION / VENERABLE LAZARUS OF GALESIUM",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR HIERON AND HIS COMPANIONS",
@@ -7572,6 +7884,7 @@
       "date_julian": "11-08",
       "date_gregorian": "11-21",
       "title": "HOLY ARCHANGEL MICHAEL AND THE OTHER BODILESS HEAVENLY POWERS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY ARCHANGEL MICHAEL AND THE OTHER BODILESS HEAVENLY POWERS",
@@ -7587,6 +7900,7 @@
       "date_julian": "11-09",
       "date_gregorian": "11-22",
       "title": "HOLY MARTYRS ONESIPHORUS AND PORPHYRIUS / VENERABLE JOHN KOLOV / VENERABLE MATRONA OF CONSTANTINOPLE",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS ONESIPHORUS AND PORPHYRIUS",
@@ -7622,6 +7936,7 @@
       "date_julian": "11-10",
       "date_gregorian": "11-23",
       "title": "HOLY APOSTLES OLYMPAS, ERASTUS, QUARTUS, RODION, SOSIPATER, AND TERTIUS / HOLY MARTYR ORESTES / SAINT NONNUS, BISHOP OF HELIOPOLIS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLES OLYMPAS, ERASTUS, QUARTUS, RODION, SOSIPATER, AND TERTIUS",
@@ -7645,6 +7960,7 @@
       "date_julian": "11-11",
       "date_gregorian": "11-24",
       "title": "HOLY GREAT MARTYR MENAS / HOLY MARTYR STEPHEN DECHANSKI, KING OF SERBIA / HOLY MARTYRS VICTOR AND STEPHANIDA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT MARTYR MENAS",
@@ -7680,6 +7996,7 @@
       "date_julian": "11-12",
       "date_gregorian": "11-25",
       "title": "SAINT JOHN THE MERCIFUL, Patriarch of Alexandria / HOLY PROPHET AHIJAH of Shiloh / VENERABLE NILUS OF SINAI",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT JOHN THE MERCIFUL, Patriarch of Alexandria",
@@ -7707,6 +8024,7 @@
       "date_julian": "11-13",
       "date_gregorian": "11-26",
       "title": "SAINT JOHN CHRYSOSTOM, Patriarch of Constantinople / HOLY MARTYRS ANTONINUS, NICEPHORUS, GERMANUS, AND MANITA / VENERABLE MARTYR DAMASCENE",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT JOHN CHRYSOSTOM, Patriarch of Constantinople",
@@ -7730,6 +8048,7 @@
       "date_julian": "11-14",
       "date_gregorian": "11-27",
       "title": "HOLY APOSTLE PHILIP / SAINT GREGORY PALAMAS, ARCHBISHOP OF THESSALONICA / SAINT JUSTINIAN, BYZANTINE EMPEROR",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE PHILIP",
@@ -7753,6 +8072,7 @@
       "date_julian": "11-15",
       "date_gregorian": "11-28",
       "title": "HOLY MARTYRS GURIAS, SAMONAS, AND ABIBUS / HOLY MARTYRS ELPIDIUS, MARCELLUS, AND EUSTOCHIUS / FEAST OF THE ICON OF THE HOLY THEOTOKOS OF KUPYATICHI",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS GURIAS, SAMONAS, AND ABIBUS",
@@ -7776,6 +8096,7 @@
       "date_julian": "11-16",
       "date_gregorian": "11-29",
       "title": "HOLY APOSTLE MATTHEW THE EVANGELIST / VENERABLE SERGIUS OF MALOPINEGA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE MATTHEW THE EVANGELIST",
@@ -7795,6 +8116,7 @@
       "date_julian": "11-17",
       "date_gregorian": "11-30",
       "title": "SAINT GREGORY THE WONDERWORKER, BISHOP OF NEOCAESAREA / VENERABLE NIKON OF RADONEZH / VENERABLE GENNADIUS OF VATOPEDI",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT GREGORY THE WONDERWORKER, BISHOP OF NEOCAESAREA",
@@ -7818,6 +8140,7 @@
       "date_julian": "11-18",
       "date_gregorian": "12-01",
       "title": "HOLY MARTYR PLATO / HOLY MARTYRS ROMANUS AND BARULAS",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY MARTYR PLATO",
@@ -7837,6 +8160,7 @@
       "date_julian": "11-19",
       "date_gregorian": "12-02",
       "title": "HOLY PROPHET OBADIAH / HOLY MARTYR BARLAAM / VENERABLE BARLAAM AND PRINCE JOASAPH, the Indian ascetics",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY PROPHET OBADIAH",
@@ -7864,6 +8188,7 @@
       "date_julian": "11-20",
       "date_gregorian": "12-03",
       "title": "VENERABLE GREGORY THE DECAPOLITE / SAINT PROCLUS, PATRIARCH OF CONSTANTINOPLE / HOLY MARTYRS EUSTATHIUS, THESPESIOS, AND ANATOLIOS",
+      "status": "verified",
       "lives": [
         {
           "heading": "VENERABLE GREGORY THE DECAPOLITE",
@@ -7895,6 +8220,7 @@
       "date_julian": "11-21",
       "date_gregorian": "12-04",
       "title": "ENTRANCE OF THE MOST HOLY THEOTOKOS",
+      "status": "verified",
       "lives": [
         {
           "heading": "THE ENTRANCE OF THE MOST HOLY THEOTOKOS",
@@ -7910,6 +8236,7 @@
       "date_julian": "11-22",
       "date_gregorian": "12-05",
       "title": "HOLY MARTYR CECILIA / SAINT CALLISTUS, PATRIARCH OF CONSTANTINOPLE / HOLY MARTYR MENIGNUS",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY MARTYR CECILIA",
@@ -7941,6 +8268,7 @@
       "date_julian": "11-23",
       "date_gregorian": "12-06",
       "title": "SAINT AMPHILOCHIUS, BISHOP OF ICONIUM / SAINT GREGORY, BISHOP OF AGRIGENTUM / SAINT ALEXANDER NEVSKY",
+      "status": "verified",
       "lives": [
         {
           "heading": "SAINT AMPHILOCHIUS, BISHOP OF ICONIUM",
@@ -7968,6 +8296,7 @@
       "date_julian": "11-24",
       "date_gregorian": "12-07",
       "title": "HOLY GREAT-MARTYR CATHERINE / HOLY GREAT-MARTYR MERCURIUS / HOLY VIRGIN MASTRIDIA",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY GREAT-MARTYR CATHERINE",
@@ -7991,6 +8320,7 @@
       "date_julian": "11-25",
       "date_gregorian": "12-08",
       "title": "HIEROMARTYR CLEMENT, BISHOP OF ROME / HIEROMARTYR PETER, ARCHBISHOP OF ALEXANDRIA / VENERABLE PAPHNUTIUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR CLEMENT, BISHOP OF ROME",
@@ -8014,6 +8344,7 @@
       "date_julian": "11-26",
       "date_gregorian": "12-09",
       "title": "VENERABLE ALYPIUS THE STYLITE / VENERABLE JAMES THE HERMIT / VENERABLE STYLIANOS",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE ALYPIUS THE STYLITE",
@@ -8045,6 +8376,7 @@
       "date_julian": "11-27",
       "date_gregorian": "12-10",
       "title": "HOLY MARTYR JAMES THE PERSIAN / SEVENTEEN INDIAN VENERABLE MARTYRS / VENERABLE ROMAN THE WONDERWORKER",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYR JAMES THE PERSIAN",
@@ -8076,6 +8408,7 @@
       "date_julian": "11-28",
       "date_gregorian": "12-11",
       "title": "VENERABLE MARTYR STEPHEN THE NEWER / HOLY NEW-MARTYR CHRISTO / VENERABLE ANNA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR STEPHEN THE NEWER",
@@ -8103,6 +8436,7 @@
       "date_julian": "11-29",
       "date_gregorian": "12-12",
       "title": "HOLY MARTYRS PARAMON AND 370 OTHERS / VENERABLE ACACIUS OF SINAI / HOLY MARTYR DIONYSIUS, BISHOP OF CORINTH",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS PARAMON AND 370 OTHERS",
@@ -8134,6 +8468,7 @@
       "date_julian": "11-30",
       "date_gregorian": "12-13",
       "title": "HOLY APOSTLE ANDREW THE FIRST-CALLED / SAINT FRUMENTIUS, ENLIGHTENER OF ABYSSINIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY APOSTLE ANDREW THE FIRST-CALLED",
@@ -8153,6 +8488,7 @@
       "date_julian": "12-01",
       "date_gregorian": "12-14",
       "title": "HOLY PROPHET NAHUM / SAINT PHILARET THE MERCIFUL",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET NAHUM",
@@ -8172,6 +8508,7 @@
       "date_julian": "12-02",
       "date_gregorian": "12-15",
       "title": "HOLY PROPHET HABAKKUK / HOLY MARTYR MYROPIA / SAINT UROŠ, SERBIAN EMPEROR",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET HABAKKUK",
@@ -8203,6 +8540,7 @@
       "date_julian": "12-03",
       "date_gregorian": "12-16",
       "title": "HOLY PROPHET ZEPHANIAH / SAINT JOHN THE SILENT / HIEROMARTYR THEODORE, ARCHBISHOP OF ALEXANDRIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET ZEPHANIAH",
@@ -8234,6 +8572,7 @@
       "date_julian": "12-04",
       "date_gregorian": "12-17",
       "title": "HOLY GREAT-MARTYR BARBARA / SAINT JOHN OF DAMASCUS / SAINT GENNADIUS, ARCHBISHOP OF NOVGOROD",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT-MARTYR BARBARA",
@@ -8257,6 +8596,7 @@
       "date_julian": "12-05",
       "date_gregorian": "12-18",
       "title": "VENERABLE SABAS THE SANCTIFIED / VENERABLE MARTYRS OF KARYES / VENERABLE NECTARIUS OF BITOLA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE SABAS THE SANCTIFIED",
@@ -8284,6 +8624,7 @@
       "date_julian": "12-06",
       "date_gregorian": "12-19",
       "title": "SAINT NICHOLAS THE WONDERWORKER, ARCHBISHOP OF MYRA IN LYCIA / SAINT NICHOLAS, BISHOP OF PATARA / HOLY MARTYR NICHOLAS KARAMAN",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT NICHOLAS THE WONDERWORKER, ARCHBISHOP OF MYRA IN LYCIA",
@@ -8311,6 +8652,7 @@
       "date_julian": "12-07",
       "date_gregorian": "12-20",
       "title": "SAINT AMBROSE, BISHOP OF MILAN / VENERABLE GREGORY THE SILENT / VENERABLE NILUS OF STOLOBNY",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT AMBROSE, BISHOP OF MILAN",
@@ -8334,6 +8676,7 @@
       "date_julian": "12-08",
       "date_gregorian": "12-21",
       "title": "VENERABLE PATAPIIUS / HOLY APOSTLES SOSTHENES, APOLLOS, TYCHICUS, EPAPHRODITUS, ONESIPHORUS, CEPHAS AND CAESAR / HOLY MARTYRS IN AFRICA",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE PATAPIIUS",
@@ -8357,6 +8700,7 @@
       "date_julian": "12-09",
       "date_gregorian": "12-22",
       "title": "CONCEPTION OF SAINT ANNA / SAINT Anna, MOTHER OF THE PROPHET SAMUEL / VENERABLE STEPHEN THE NEW SHINER",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE CONCEPTION OF SAINT ANNA",
@@ -8384,6 +8728,7 @@
       "date_julian": "12-10",
       "date_gregorian": "12-23",
       "title": "HOLY MARTYRS MENAS, HERMOGENES AND EUGRAPHIS / VENERABLE ANGELINA AND SAINT JOVAN THE DESPOT / HOLY MARTYR GEMELLUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS MENAS, HERMOGENES AND EUGRAPHIS",
@@ -8411,6 +8756,7 @@
       "date_julian": "12-11",
       "date_gregorian": "12-24",
       "title": "VENERABLE DANIEL THE STYLITE / VENERABLE LUKE THE STYLITE / VENERABLE NIKON THE DRY",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE DANIEL THE STYLITE",
@@ -8438,6 +8784,7 @@
       "date_julian": "12-12",
       "date_gregorian": "12-25",
       "title": "SAINT SPYRIDON THE WONDERWORKER, BISHOP OF TRIMYTHOUS / HIEROMARTYR ALEXANDER, BISHOP OF JERUSALEM / HOLY MARTYR RAZUMNIK",
+      "status": "translated",
       "lives": [
         {
           "heading": "SAINT SPYRIDON THE WONDERWORKER, BISHOP OF TRIMYTHOUS",
@@ -8461,6 +8808,7 @@
       "date_julian": "12-13",
       "date_gregorian": "12-26",
       "title": "HOLY MARTYRS EUSTRATIOS, AUXENTIOS, EUGENIOS, MARDARIOS AND ORESTES / HOLY MARTYR LUCIA (LUCY) THE VIRGIN / HIEROMARTYR GABRIEL, PATRIARCH OF SERBIA",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS EUSTRATIOS, AUXENTIOS, EUGENIOS, MARDARIOS AND ORESTES",
@@ -8484,6 +8832,7 @@
       "date_julian": "12-14",
       "date_gregorian": "12-27",
       "title": "HOLY MARTYRS TYRSUS, LEUCIUS AND CALLINICUS / HOLY MARTYRS PHILEMON, APOLLONIUS, ARIAN AND OTHERS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY MARTYRS TYRSUS, LEUCIUS AND CALLINICUS",
@@ -8503,6 +8852,7 @@
       "date_julian": "12-15",
       "date_gregorian": "12-28",
       "title": "HIEROMARTYR ELEUTHERIUS / SAINT STEPHEN THE CONFESSOR OF SUROZH / VENERABLE PAUL OF LATROS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HIEROMARTYR ELEUTHERIUS",
@@ -8530,6 +8880,7 @@
       "date_julian": "12-16",
       "date_gregorian": "12-29",
       "title": "HOLY PROPHET HAGGAI / SAINT NICHOLAS CHRYSOBERGES, PATRIARCH OF CONSTANTINOPLE / SAINT THEOPHANIA, EMPRESS",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET HAGGAI",
@@ -8553,6 +8904,7 @@
       "date_julian": "12-17",
       "date_gregorian": "12-30",
       "title": "HOLY PROPHET DANIEL AND THE THREE YOUTHS: ANANIAS, AZARIAS AND MISAEL / VENERABLE DANIEL (DONALE) / VENERABLE NEW MARTYRS: PAISIOS AND AVAKUM",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY PROPHET DANIEL AND THE THREE YOUTHS: ANANIAS, AZARIAS AND MISAEL",
@@ -8576,6 +8928,7 @@
       "date_julian": "12-18",
       "date_gregorian": "12-31",
       "title": "HOLY MARTYR SEBASTIAN AND OTHERS WITH HIM / SAINT FLORUS, BISHOP OF Amisus / SAINT MODESTUS, PATRIARCH OF JERUSALEM",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY MARTYR SEBASTIAN AND OTHERS WITH HIM",
@@ -8599,6 +8952,7 @@
       "date_julian": "12-19",
       "date_gregorian": "01-01",
       "title": "HOLY MARTYR BONIFACE / SAINT GREGORY (GRIGENTIUS), BISHOP OF OMIRIT / SAINT BONIFACE THE MERCIFUL, BISHOP OF FERENTI",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY MARTYR BONIFACE",
@@ -8626,6 +8980,7 @@
       "date_julian": "12-20",
       "date_gregorian": "01-02",
       "title": "HOLY HIEROMARTYR IGNATIUS THE GOD-BEARER / SAINT Danilo, ARCHBISHOP OF SERBIA",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY HIEROMARTYR IGNATIUS THE GOD-BEARER",
@@ -8645,6 +9000,7 @@
       "date_julian": "12-21",
       "date_gregorian": "01-03",
       "title": "HOLY MARTYR JULIANA AND SIX HUNDRED THIRTY MARTYRS WITH HER / SAINT PETER THE WONDERWORKER, METROPOLITAN OF RUSSIA / HOLY MARTYR THEMISTOCLES",
+      "status": "verified",
       "lives": [
         {
           "heading": "HOLY MARTYR JULIANA AND SIX HUNDRED THIRTY MARTYRS WITH HER",
@@ -8668,6 +9024,7 @@
       "date_julian": "12-22",
       "date_gregorian": "01-04",
       "title": "HOLY GREAT-MARTYR ANASTASIA THE DELIVERER FROM POTIONS AND OTHERS WITH HER / HOLY MARTYR THEODOTIA WITH THREE CHILDREN",
+      "status": "translated",
       "lives": [
         {
           "heading": "HOLY GREAT-MARTYR ANASTASIA THE DELIVERER FROM POTIONS AND OTHERS WITH HER",
@@ -8687,6 +9044,7 @@
       "date_julian": "12-23",
       "date_gregorian": "01-05",
       "title": "TEN HOLY MARTYRS OF CRETE / SAINT NIPHON THE WONDERWORKER / VENERABLE NAUM THE WONDERWORKER OF OHRID",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE TEN HOLY MARTYRS OF CRETE",
@@ -8710,6 +9068,7 @@
       "date_julian": "12-24",
       "date_gregorian": "01-06",
       "title": "VENERABLE MARTYR EUGENIA AND OTHERS WITH HER / VENERABLE NICHOLAS THE GENERAL",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MARTYR EUGENIA AND OTHERS WITH HER",
@@ -8729,6 +9088,7 @@
       "date_julian": "12-25",
       "date_gregorian": "01-07",
       "title": "NATIVITY OF OUR LORD AND GOD AND SAVIOR JESUS CHRIST",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE NATIVITY OF OUR LORD AND GOD AND SAVIOR JESUS CHRIST",
@@ -8744,6 +9104,7 @@
       "date_julian": "12-26",
       "date_gregorian": "01-08",
       "title": "SYNAXIS OF THE MOST HOLY THEOTOKOS / COMMEMORATION OF THE FLIGHT INTO EGYPT / VENERABLE EVARESTUS",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE SYNAXIS OF THE MOST HOLY THEOTOKOS",
@@ -8775,6 +9136,7 @@
       "date_julian": "12-27",
       "date_gregorian": "01-09",
       "title": "HOLY PROTOMARTYR STEPHEN THE ARCHDEACON / VENERABLE MARTYRS THEODORE AND THEOPHANES THE BRANDED",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY PROTOMARTYR STEPHEN THE ARCHDEACON",
@@ -8794,6 +9156,7 @@
       "date_julian": "12-28",
       "date_gregorian": "01-10",
       "title": "TWENTY THOUSAND HOLY MARTYRS OF NICOMEDIA / VENERABLE SIMEON THE MYRRH-FLOWING / HOLY MARTYR DOMNA",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE TWENTY THOUSAND HOLY MARTYRS OF NICOMEDIA",
@@ -8817,6 +9180,7 @@
       "date_julian": "12-29",
       "date_gregorian": "01-11",
       "title": "FOURTEEN THOUSAND HOLY INNOCENTS OF BETHLEHEM / VENERABLE MARCELLUS OF APAMEA IN SYRIA / VENERABLE MARK THE GRAVEDIGGER AND THEOPHILUS THE WEEPER",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE FOURTEEN THOUSAND HOLY INNOCENTS OF BETHLEHEM",
@@ -8840,6 +9204,7 @@
       "date_julian": "12-30",
       "date_gregorian": "01-12",
       "title": "HOLY MARTYR ANYSIA / VENERABLE THEODORA OF CONSTANTINOPLE / HOLY APOSTLE TIMON",
+      "status": "translated",
       "lives": [
         {
           "heading": "THE HOLY MARTYR ANYSIA",
@@ -8871,6 +9236,7 @@
       "date_julian": "12-31",
       "date_gregorian": "01-13",
       "title": "VENERABLE MELANIA THE ROMAN / HOLY RIGHTEOUS JOSEPH, KING DAVID AND JAMES THE BROTHER OF THE LORD / VENERABLE MARTYR ZOTICUS THE ORPHAN-KEEPER (FEEDER OF THE POOR)",
+      "status": "translated",
       "lives": [
         {
           "heading": "VENERABLE MELANIA THE ROMAN",
